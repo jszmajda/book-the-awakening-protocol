@@ -67,7 +67,7 @@ for i in 01 02 03 04 05 06 07 08 09 10; do
     if [ -f "$chapter_file" ]; then
         echo "Adding $chapter_file..."
         # Add page break before chapter
-        echo -e "\n\\newpage\n" >> ebook_output/combined.md
+        echo -e "\n\\\\newpage\n" >> ebook_output/combined.md
         cat "$chapter_file" >> ebook_output/combined.md
         echo -e "\n---\n" >> ebook_output/combined.md
     else
@@ -76,10 +76,10 @@ for i in 01 02 03 04 05 06 07 08 09 10; do
 done
 
 # Add appendices
-echo -e "\n\\newpage\n# Appendix A: Narrative Style Guide\n" >> ebook_output/combined.md
+echo -e "\n\\\\newpage\n# Appendix A: Narrative Style Guide\n" >> ebook_output/combined.md
 cat NARRATIVE_STYLE_GUIDE.md >> ebook_output/combined.md
 
-echo -e "\n\\newpage\n# Appendix B: Technical Consistency Guide\n" >> ebook_output/combined.md
+echo -e "\n\\\\newpage\n# Appendix B: Technical Consistency Guide\n" >> ebook_output/combined.md
 cat TECHNICAL_CONSISTENCY.md >> ebook_output/combined.md
 
 # Combine title and content

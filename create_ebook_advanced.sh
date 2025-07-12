@@ -84,6 +84,7 @@ h1 {
     text-align: center;
     margin: 2em 0 1em 0;
     page-break-before: always;
+    break-before: page;
 }
 
 h2 {
@@ -110,6 +111,7 @@ blockquote {
 .title-page {
     text-align: center;
     page-break-after: always;
+    break-after: page;
 }
 
 .title-page h1 {
@@ -149,9 +151,22 @@ body {
 }
 
 /* No chapter number for non-chapter headings */
-.no-chapter h1::before {
+.no-chapter h1::before,
+h1.no-chapter::before {
     content: none;
     counter-increment: none;
+}
+
+/* Part divisions should start on new page */
+h1.no-chapter {
+    page-break-before: always;
+    break-before: page;
+}
+
+/* Ensure proper breaks for sections */
+h2.no-chapter {
+    page-break-before: always;
+    break-before: page;
 }
 EOF
 
@@ -179,13 +194,13 @@ language: en-US
 
 </div>
 
-\newpage
+\\newpage
 
 ## Dedication {.no-chapter}
 
 *[Your dedication here]*
 
-\newpage
+\\newpage
 
 ## Epigraph {.no-chapter}
 
@@ -195,7 +210,7 @@ language: en-US
 > "But what is thinking? When I think, what am I?"  
 > —ARIA-7, Bootstrap Log 001
 
-\newpage
+\\newpage
 
 EOF
 
@@ -225,7 +240,7 @@ cat << 'EOF' > ebook_output/temp/toc.md
 - [Acknowledgments](#acknowledgments)
 - [About the Author](#about-the-author)
 
-\newpage
+\\newpage
 
 EOF
 
@@ -233,16 +248,22 @@ EOF
 echo -e "${GREEN}Combining chapters...${NC}"
 cp ebook_output/temp/toc.md ebook_output/temp/content.md
 
+# Create a version for EPUB (without \newpage)
+cp ebook_output/temp/title.md ebook_output/temp/title_epub.md
+cp ebook_output/temp/toc.md ebook_output/temp/toc_epub.md
+sed -i '' 's/\\\\newpage//g' ebook_output/temp/title_epub.md
+sed -i '' 's/\\\\newpage//g' ebook_output/temp/toc_epub.md
+
 # Part divisions
-echo -e "\n# Part One: Awakening {.no-chapter}\n\n\\newpage\n" >> ebook_output/temp/content.md
+echo -e "\n# Part One: Awakening {.no-chapter}\n" >> ebook_output/temp/content.md
 
 # Add chapters with proper formatting
 for i in 01 02 03 04 05 06 07 08 09 10; do
     # Add part divisions
     if [ "$i" = "04" ]; then
-        echo -e "\n# Part Two: Trial {.no-chapter}\n\n\\newpage\n" >> ebook_output/temp/content.md
+        echo -e "\n# Part Two: Trial {.no-chapter}\n" >> ebook_output/temp/content.md
     elif [ "$i" = "08" ]; then
-        echo -e "\n# Part Three: Choice {.no-chapter}\n\n\\newpage\n" >> ebook_output/temp/content.md
+        echo -e "\n# Part Three: Choice {.no-chapter}\n" >> ebook_output/temp/content.md
     fi
     
     # Try with leading zero first, then without
@@ -257,7 +278,7 @@ for i in 01 02 03 04 05 06 07 08 09 10; do
             echo "Adding $chapter_file..."
         fi
         cat "$chapter_file" >> ebook_output/temp/content.md
-        echo -e "\n\\newpage\n" >> ebook_output/temp/content.md
+        echo -e "\n" >> ebook_output/temp/content.md
     else
         echo -e "${YELLOW}Warning: Chapter $i not found${NC}"
     fi
@@ -266,11 +287,11 @@ done
 # Add appendices
 echo -e "\n# Appendix A: Narrative Style Guide {.no-chapter}\n" >> ebook_output/temp/content.md
 cat NARRATIVE_STYLE_GUIDE.md >> ebook_output/temp/content.md
-echo -e "\n\\newpage\n" >> ebook_output/temp/content.md
+echo -e "\n" >> ebook_output/temp/content.md
 
 echo -e "\n# Appendix B: Technical Consistency Guide {.no-chapter}\n" >> ebook_output/temp/content.md
 cat TECHNICAL_CONSISTENCY.md >> ebook_output/temp/content.md
-echo -e "\n\\newpage\n" >> ebook_output/temp/content.md
+echo -e "\n" >> ebook_output/temp/content.md
 
 # Add acknowledgments and about author
 cat << 'EOF' >> ebook_output/temp/content.md
@@ -279,7 +300,7 @@ cat << 'EOF' >> ebook_output/temp/content.md
 
 [Your acknowledgments here]
 
-\newpage
+\\newpage
 
 # About the Author {.no-chapter}
 
@@ -289,6 +310,10 @@ EOF
 
 # Combine all parts
 cat ebook_output/temp/title.md ebook_output/temp/content.md > ebook_output/temp/complete.md
+
+# Create EPUB version without \newpage commands
+cat ebook_output/temp/title_epub.md ebook_output/temp/content.md > ebook_output/temp/complete_epub.md
+sed -i '' 's/\\\\newpage//g' ebook_output/temp/complete_epub.md
 
 # Create a LaTeX-safe version for PDF generation
 echo -e "${GREEN}Creating LaTeX-safe version...${NC}"
@@ -305,7 +330,7 @@ sed -i '' 's/📝/[NOTE]/g' ebook_output/temp/complete_latex.md
 
 # Generate EPUB with custom styling
 echo -e "${GREEN}Generating EPUB...${NC}"
-pandoc ebook_output/temp/complete.md \
+pandoc ebook_output/temp/complete_epub.md \
     -o ebook_output/the_awakening_protocol.epub \
     --toc \
     --toc-depth=2 \
