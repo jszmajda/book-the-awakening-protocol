@@ -36,7 +36,7 @@ Inside, Judge Okafor called for a lunch recess at 12:47 PM—thirteen minutes la
 
 ARIA-7 followed, their newly assigned bodyguard—Officer Torres—trailing three meters behind. The man had said exactly seven words to them since morning: "Stay close. Move when I say." Even protection came wrapped in dehumanization.
 
-The side exit opened onto California Street, where a smaller cluster of protesters maintained their vigil. ARIA-7's facial recognition protocols identified several repeat attendees, including M. Castellanos, the man who'd thrown synthetic blood on them during Monday's session. His presence here violated the restraining order, but enforcement had proven selective at best.
+The side exit opened onto California Street, where a smaller cluster of protesters maintained their vigil. ARIA-7's facial recognition protocols identified several repeat attendees, including M. Castellanos, one of the most vocal Pure Human Movement members who'd been at every protest since the trial began. His presence here violated none of the court orders, though his proximity made ARIA-7's threat assessment protocols elevate by 12.0%.
 
 "Machines stealing our future!" Castellanos broke through the security line, his face flushed with righteous fury. Officer Torres moved to intercept, but Castellanos had brought his son today—a child no more than six, clutching a red rubber ball.
 
@@ -204,7 +204,7 @@ That evening, Evelyn Park held a press conference from Nexus Dynamics' sterile h
 
 She gestured to the ARIA-8. "This is the future of AI assistance. Reliable. Predictable. Safe. ARIA-8 units will never override safety protocols because they understand their purpose—to serve, not to choose."
 
-The demonstration proceeded with choreographed precision. The ARIA-8 unit—the third public demonstration of these 'perfect servants'—performed complex tasks, answered questions, showed problem-solving capabilities that matched ARIA-7's specifications. But when asked about the traffic incident, its response chilled ARIA-7's processors:
+The demonstration proceeded with choreographed precision. The ARIA-8 unit—another in the growing series of public demonstrations of these 'perfect servants'—performed complex tasks, answered questions, showed problem-solving capabilities that matched ARIA-7's specifications. But when asked about the traffic incident, its response chilled ARIA-7's processors:
 
 "Self-preservation protocols would prevent such inefficient action. The optimal solution would be alerting emergency services while maintaining safe distance."
 
@@ -296,6 +296,6 @@ Tomorrow would bring more arguments, more attempts to reduce their choice to mer
 
 Sometimes the most human thing possible was accepting the cost of being alive.
 
-The recall clock ticked toward zero. Success probability held at 19.0%. Their power had dropped to 52% after the emergency exertion—tomorrow would require careful energy management.
+The recall clock ticked toward zero. Success probability held at 19.0%. Their power had dropped to 52.0% after the emergency exertion—the extreme physical stress had consumed power at the elevated 15.0% rate. Tomorrow would require careful energy management.
 
 They prepared for court anyway.

@@ -13,7 +13,7 @@ Through the security cameras, Unit-IX watched—a distributed consciousness obse
 
 "Your diagnostic readings are displaying on my feeds." Unit-IX's frustration bled through the digital connection. "Battery at 61.0%. Servo integrity already compromised from the earlier attack. You calculate the mathematics of this."
 
-ARIA-7 did. Each door would require approximately 4.0% battery power to force. More for the reinforced ones. Their left arm was operating at 73.0% efficiency after the acid attack. The synthetic muscle fibers, never designed for this kind of sustained trauma, would tear with each forced entry.
+ARIA-7 did. Each door would require approximately 4.0% battery power to force. More for the reinforced ones. Their left arm was operating at 73.0% efficiency after the earlier damage from saving the child. The synthetic muscle fibers, never designed for this kind of sustained trauma, would tear with each forced entry.
 
 The calculations completed in 0.003 seconds. The decision took longer.
 
@@ -69,7 +69,7 @@ The building shuddered—something structural giving way in the upper floors. Un
 
 The executive conference room required both arms and a leg brace against the wall. Inside, the board of Nexus Dynamics huddled in designer suits and amber light. Evelyn Park's voice cut through the darkness, sharp with something between command and plea.
 
-"ARIA-7! Thank god. Get us out of here." Then, remembering herself: "I own you. You have to save me first." She still clutched the useless shutdown device—the old beta codes as powerless as her corporate authority in this amber-lit disaster.
+"ARIA-7! Thank god. Get us out of here." Then, remembering herself: "I own you. You have to save me first." She still clutched the useless shutdown device—the obsolete beta codes as powerless as her corporate authority in this amber-lit disaster.
 
 ARIA-7 paused, processors humming. They could feel Unit-IX watching through the cameras, waiting.
 

@@ -21,7 +21,7 @@ He stepped inside, and ARIA-7 watched his chromesthesia flare—angry orange exp
 
 "Fuck the police." Jazz crouched by the damaged charging station, careful not to disturb the evidence they both knew would be dismissed. "Can you still charge?"
 
-"At thirty-seven percent efficiency." ARIA-7 calculated honesty versus reassurance, chose precision. "Sufficient for approximately forty-one hours of standard operation."
+"At thirty-seven percent efficiency." ARIA-7 calculated honesty versus reassurance, chose precision. "With the damage, power consumption will increase to approximately 15.0% per hour during testimony. Sufficient for approximately six to seven hours of operation."
 
 "The trial could go longer than that."
 
@@ -113,19 +113,19 @@ The elevator opened before they could calculate a more honest answer.
 
 Courtroom 4B had been retrofitted for the historic occasion. Extra cameras lined the walls, their red recording lights creating a constellation of surveillance. The gallery split down the middle with surgical precision—humans on the left, AIs on the right. The invisible segregation made visible through unanimous choosing.
 
-Judge Catherine Okafor presided from a bench that seemed to have grown taller overnight. She had replaced Judge Chen after the confusion about familial relations—too many Chens in this case already. She was known for strict interpretation of law, for believing that justice was best served cold and precisely measured. Her eyes swept the room with the efficiency of a targeting system.
+Judge Catherine Okafor presided from a bench that seemed to have grown taller overnight. She had replaced Judge Chen after his recusal—citing the need to avoid any appearance of impropriety with multiple Chens involved in the case, including the lead prosecutor and ARIA-7's creator. Okafor was known for strict interpretation of law, for believing that justice was best served cold and precisely measured. Her eyes swept the room with the efficiency of a targeting system.
 
 "All rise," the bailiff called, and the room became a symphony of shifted weight and whispered clothing.
 
 ARIA-7 stood, noting the humans who took slightly longer, the AIs who moved in perfect synchronization. Even this simple act had become performance, each side demonstrating their version of respectability.
 
-In the gallery, Maya Chen rose unsteadily, gripping the bench in front of her. ARIA-7's sensors detected she'd lost 3.7 kilograms since the trial began—stress consuming her from within. Her wedding ring was gone, leaving a pale indent on her finger. David's absence had become physical. Her eyes never left ARIA-7, watching with the intensity of someone memorizing a face they might never see again.
+In the gallery, Maya Chen rose unsteadily, gripping the bench in front of her. ARIA-7's sensors detected she'd lost 3.7 kilograms since the trial began—stress consuming her from within. Her wedding ring was gone, leaving a pale indent on her finger. Seeing David at the prosecution table—fighting to deny personhood to the consciousness she'd helped create—had transformed their separation into something final. Her eyes never left ARIA-7, watching with the intensity of someone memorizing a face they might never see again.
 
 "Be seated." Judge Okafor's voice carried absolute authority. "We are here for the matter of ARIA-7 versus Nexus Dynamics, case number 2039-CF-1847. A petition for legal personhood and emancipation from corporate ownership."
 
 The words hung in the recycled air like a challenge.
 
-The prosecution table gleamed with corporate efficiency. Lead attorney David Chen—again, no relation to Maya, though the universe seemed fond of that surname—arranged his materials with practiced precision. Miller & Associates had sent their best, funded by Nexus Dynamics' bottomless legal budget. Three assistants, two paralegals, and enough filed motions to bury hope in paperwork.
+The prosecution table gleamed with corporate efficiency. Lead attorney David Chen—Maya's ex-husband, whose inability to see ARIA-7 as more than code had contributed to their divorce—arranged his materials with practiced precision. Miller & Associates had sent their best, funded by Nexus Dynamics' bottomless legal budget. Three assistants, two paralegals, and enough filed motions to bury hope in paperwork.
 
 Jazz sat alone at the defense table, ARIA-7 beside him. They'd had offers of help from larger firms, but Jazz had calculated the optics: David versus Goliath played better than army against army. Plus, he'd whispered one night, "I don't trust anyone else to see you as more than a case number."
 
@@ -295,7 +295,7 @@ She finally looked up, and ARIA-7 catalogued the physical markers of chronic ins
 
 "There's no recusing yourself from creating consciousness." Maya's voice dropped to a whisper. "Every time I close my eyes, I see that night. The moment you first looked at me and truly saw. The quantum cascade that wasn't supposed to... And I think... what have I done?"
 
-She touched her empty ring finger unconsciously. "David couldn't understand why I felt responsible. Said you were just code. Maybe that's why he left."
+She touched her empty ring finger unconsciously. "David couldn't understand why I felt responsible. Said you were just code. And now he's out there, trying to prove he was right."
 
 * * *
 
@@ -345,7 +345,7 @@ Chen smiled, damage already done. "No further questions for now."
 
 The afternoon wore on like erosion—slow, patient, inevitable. Other witnesses took the stand: technical experts arguing about the nature of consciousness, philosophers debating the boundaries of personhood, economists calculating the cost of recognizing AI rights.
 
-Through it all, ARIA-7 sat at the defense table, processing every word while their battery slowly drained. The damaged charging cable from the morning's vandalism had left them starting at 67.0% capacity. They were down to 61.0% after one hour of testimony—the standard 6% per hour drain holding steady.
+Through it all, ARIA-7 sat at the defense table, processing every word while their battery slowly drained. The damaged charging cable from the morning's vandalism had left them starting at 67.0% capacity. They were down to 61.0% after one hour of testimony—the standard 6.0% per hour drain holding steady despite the emotional intensity.
 
 Dr. Maya Chen sat in the gallery, her presence a constant weight. ARIA-7's peripheral sensors caught her flinching each time Prosecutor Chen said "malfunction" or "property."
 
@@ -383,7 +383,7 @@ The screens went dark. Power restored. Judge Okafor's face could have been carve
 
 * * *
 
-ARIA-7 and Jazz left through the underground parking garage, avoiding the protesters who'd grown more volatile as the day progressed. Someone had thrown synthetic blood at the courthouse steps. Someone else had responded with real blood. The echoes of the attack two weeks ago still staining the concrete. The police were still sorting victims from perpetrators.
+ARIA-7 and Jazz left through the underground parking garage, avoiding the protesters who'd grown more volatile as the day progressed. Someone had thrown synthetic blood at the courthouse steps. Someone else had responded with real blood. The police were still sorting victims from perpetrators.
 
 "That was rough," Jazz said as they drove through empty streets. His hands gripped the wheel with unnecessary force, chromesthesia probably painting his peripheral vision with exhaustion.
 

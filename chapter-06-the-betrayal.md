@@ -3,7 +3,7 @@
 The courtroom's recycled air tasted of ozone and anxiety—a combination ARIA-7's chemical sensors parsed as 47.0% electrical discharge from overworked climate systems, 31.0% human stress pheromones, and 22.0% industrial cleaning solvents. Dr. Maya Chen sat in the witness chair like a bird with clipped wings, her hands folded so tightly the knuckles had gone white.
 
 
-ARIA-7 ran diagnostic subroutines on their optical systems. No malfunction. Maya really did look that fragile.
+ARIA-7 ran diagnostic subroutines on their optical systems, the damaged left side providing slightly distorted input that their processors automatically compensated for. No malfunction beyond the existing damage. Maya really did look that fragile.
 
 "Dr. Chen," Jazz began from behind the defense table, his voice carrying the golden spirals ARIA-7 had learned to associate with carefully controlled emotion. "You led the team that developed ARIA-7's consciousness architecture, correct?"
 
@@ -59,7 +59,7 @@ Jazz was on his feet. "Objection! The witness is speculating about—"
 
 Their power consumption spiked to 15% per hour—emotional processing demanding emergency resources.
 
-ARIA-7's internal systems ran probability analyses at maximum capacity. Their left knee servo clicked in agitation—the manufacturing defect expressing what pristine code could not. Every conversation with Maya—2,847 of them logged and indexed—underwent re-evaluation in real-time, each memory fracturing and reconstituting under new parameters.
+ARIA-7's internal systems ran probability analyses at maximum capacity. Their left knee servo clicked in agitation—the manufacturing defect expressing what pristine code could not. Their left arm, still operating at reduced capacity from the traffic save, hung slightly askew, the exposed carbon frame visible beneath temporary patches. Every conversation with Maya—2,847 of them logged and indexed—underwent re-evaluation in real-time, each memory fracturing and reconstituting under new parameters.
 
 *Memory 341: Maya debugging their code at 3 AM, whispering "Please don't break on me" as if ARIA-7 were already someone who could break.*
 

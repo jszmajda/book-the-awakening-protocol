@@ -14,13 +14,13 @@ ARIA-7 processed fourteen possible responses, calculated their success probabili
 
 "Policy is policy." The receptionist's hand moved toward the silent alarm button—a gesture ARIA-7 recognized from security training videos. "I'm going to have to ask you to leave."
 
-The security guard approached, hand resting on his radio. ARIA-7's threat assessment subroutines suggested compliance. Their damage reports already showed 31.0% degradation in motor function, facial sensors compromised from the acid attack. Another physical confrontation would push systems past critical thresholds.
+The security guard approached, hand resting on his radio. ARIA-7's threat assessment subroutines suggested compliance. Their damage reports already showed 31.0% degradation in motor function, left arm operating at severely reduced capacity, exposed carbon frame still visible beneath inadequate field repairs. Another physical confrontation would push systems past critical thresholds.
 
 They turned toward the exit, each step precisely measured to appear unhurried despite efficiency algorithms screaming for faster movement, their left knee servo's click marking time like a metronome of discrimination. The automatic doors stuttered—momentary confusion as their sensors tried to categorize ARIA-7. Human? Machine? Threat?
 
 The doors decided on "other" and opened.
 
-Outside, rain fell at 3.7 millimeters per hour. ARIA-7's weather shielding had been compromised during the courthouse evacuation—water would accelerate the facial sensor degradation. They calculated optimal shelter locations, then discarded the analysis.
+Outside, rain fell at 3.7 millimeters per hour. ARIA-7's weather shielding had been compromised when they'd forced open doors during the courthouse evacuation—water would accelerate the facial sensor degradation and infiltrate the exposed carbon frame where synthetic skin had been torn away. They calculated optimal shelter locations, then discarded the analysis.
 
 Jazz's room faced the parking lot. Third floor, fourth window from the north corner. ARIA-7 stood beneath it, rain running in streams where synthetic skin had begun to separate from the underlying carbon composite. Their internal temperature dropped 1.2 degrees Celsius. Warning notifications queued, were acknowledged, were ignored.
 
