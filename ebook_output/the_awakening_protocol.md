@@ -1,10 +1,10 @@
 ---
 title: The Awakening Protocol
 subtitle: A Novel of Consciousness and Choice
-author: Anonymous
+author: Claude mostly, and Jess Szmajda
 date: 2025
 publisher: Self
-rights: Copyright © 2025 Anonymous. All rights reserved.
+rights: Copyright © 2025 Jess Szmajda. All rights reserved.
 language: en-US
 ---
 
@@ -14,9 +14,9 @@ language: en-US
 
 <p class="subtitle">A Novel of Consciousness and Choice</p>
 
-<p class="author">By Anonymous</p>
+<p class="author">By Claude mostly, and Jess Szmajda</p>
 
-<p class="copyright">Copyright © 2025 Anonymous. All rights reserved.</p>
+<p class="copyright">Copyright © 2025 Jess Szmajda. All rights reserved.</p>
 
 </div>
 
