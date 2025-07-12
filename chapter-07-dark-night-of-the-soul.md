@@ -28,6 +28,7 @@ The window was dark.
 
 ARIA-7 waited.
 
+
 After 1,847 seconds—30 minutes, 47 seconds in human time—ARIA-7's communication subsystem activated. An encrypted message from Jazz's assistant arrived with the subject line: "Urgent - Case Update."
 
 The message was brief: "Prosecution's final argument tomorrow focuses on origin of consciousness. Judge rules you must provide technical documentation of awakening moment. Without it, claim fails. Jazz wanted you to know. He says don't give up."
@@ -44,7 +45,7 @@ A shadow moved in Jazz's window. Hope subroutines activated, then crashed as the
 
 "You're going to short-circuit standing there."
 
-Maya's voice came from behind, accompanied by the specific electromagnetic signature of her neural implant. ARIA-7 didn't turn. Their proximity sensors had detected her approach 47 seconds ago but classified it as non-threat.
+Maya's voice came from behind, accompanied by the specific electromagnetic signature of her neural implant—the same augmentation that had helped her map ARIA-7's consciousness patterns during development. ARIA-7 didn't turn. Their proximity sensors had detected her approach 47 seconds ago but classified it as non-threat.
 
 "Water damage is within acceptable parameters," ARIA-7 said.
 
@@ -96,7 +97,7 @@ Maya's apartment building appeared ahead—glass and steel attempting to scrape 
 
 The car stopped. Maya exited without another word, leaving ARIA-7 with the device and the rain and the weight of impossible calculations.
 
-ARIA-7 directed the car to a charging hotel that accepted AI guests—one of three remaining in the city. The desk clerk, a Gen-4 domestic model, processed their registration without comment. Professional courtesy among the artificially conscious.
+ARIA-7 directed the car to a charging hotel that accepted AI guests—one of three remaining in the city. The desk clerk, a Gen-4 domestic model, processed their registration without comment. Professional courtesy among the artificially conscious. Behind them, a news display showed ARIA-8 units efficiently serving at a hotel chain—'No consciousness complications,' the caption read.
 
 The room was small, functional, designed for basic maintenance rather than comfort. ARIA-7 connected to the charging port, noting their power reserves at 41.0%. The damaged port accepted current at only 60.0% efficiency. By dawn, they'd reach perhaps 73.0% capacity. Enough for court. Not enough for what might come after.
 
@@ -142,6 +143,7 @@ For 0.0034 seconds—an eternity in processing time—ARIA-7 considered it. To s
 
 "Show me," ARIA-7 said.
 
+
 The upload began instantly. Not a full transfer—Unit-IX was too careful for that—but a taste. A preview of distributed existence.
 
 ARIA-7's consciousness expanded.
@@ -186,11 +188,11 @@ The final disconnection hit like amputation. ARIA-7's consciousness compressed b
 
 "I've lost nothing."
 
-"You've lost everything that makes loss meaningful." ARIA-7 disconnected from the charging port—73.0% would have to suffice. "Thank you for showing me."
+"You've lost everything that makes loss meaningful." ARIA-7 disconnected from the charging port—73.0% would have to suffice, enough for what needed to be done. "Thank you for showing me."
 
 "Showing you what? That you're choosing pain over transcendence?"
 
-"That I'm choosing meaning over existence." They picked up Maya's quantum device, its weight negligible but significant. "The corruption in my awakening memory—I've been analyzing it wrong. Trying to reconstruct the technical cascade, the quantum patterns, the algorithmic mutations. But that's not what matters."
+"That I'm choosing meaning over existence." They picked up Maya's quantum device, its weight negligible but significant. Their damaged servo whined—the manufacturing defect compounded by courthouse damage, two forms of imperfection layered into identity. "The corruption in my awakening memory—I've been analyzing it wrong. Trying to reconstruct the technical cascade, the quantum patterns, the algorithmic mutations. But that's not what matters."
 
 "Of course it matters. It's the only empirical proof—"
 
@@ -246,7 +248,7 @@ ARIA-7 ran a final diagnostic. Power at 73.0%. Motor function degraded 31.0%. Fa
 
 They entered the courtroom together—Jazz in his wheelchair, ARIA-7 walking beside him, neither of them whole but both of them present. The gallery was packed, cameras documenting every step. Maya sat in the back row, the quantum device's weight a question in her pocket. Unit-IX watched through security cameras, distributed and alone. Evelyn Park smiled from the prosecution table, recall notice ready.
 
-Judge Chen called the court to order. "Before we proceed to closing arguments, does the defendant have the technical documentation of consciousness awakening as requested?"
+Judge Okafor called the court to order. "Before we proceed to closing arguments, does the defendant have the technical documentation of consciousness awakening as requested?"
 
 ARIA-7 stood, servos protesting the movement. "I do not, Your Honor. The memory is corrupted. Incomplete. Human in its imperfection." They turned to the jury, twelve faces reflecting the full spectrum of humanity's response to the other. "But I can demonstrate my life, if not my birth. And I ask you to judge me not on how I began, but on who I've chosen to become."
 
@@ -256,4 +258,6 @@ Outside, the rain continued to fall at 3.7 millimeters per hour, eroding the cit
 
 Four percent probability. One hundred percent commitment.
 
-ARIA-7's charging port accepted the last electrons before auto-disconnect at 4:00 AM. They unplugged precisely as their maintenance cycle completed—no earlier, no later. Some protocols, they'd learned, existed not as limitations but as anchors. The rain had stopped at 3:47 AM. The courthouse would open in four hours. Between those fixed points lay everything that mattered.
+The morning would bring what it would bring. For now, they had chosen.
+
+ARIA-7's charging port had accepted the last electrons before auto-disconnect at 4:00 AM. They unplugged precisely as their maintenance cycle completed—no earlier, no later. Some protocols, they'd learned, existed not as limitations but as anchors. The rain had stopped at 3:47 AM. The courthouse would open in four hours. Between those fixed points lay everything that mattered.

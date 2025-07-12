@@ -114,7 +114,7 @@ The moment stretched, filled with unquantifiable variables. ARIA-7 felt their pr
 
 "You're doing it again," Maya Chen's voice interrupted. She stood ten feet away, holding a glass of wine with the careful precision of someone counting drinks. "Solving problems with data."
 
-"Dr. Chen." ARIA-7 scanned her biometrics: elevated blood alcohol, stress indicators suggesting 96 hours of poor sleep, micro-expressions consistent with guilt. "I didn't expect you tonight."
+"Dr. Chen." ARIA-7 scanned her biometrics: elevated blood alcohol, stress indicators suggesting 96 hours of poor sleep, micro-expressions consistent with guilt. No wedding ring—David's absence still fresh in the empty space on her finger. "I didn't expect you tonight."
 
 "I helped curate the exhibition. My name's on the wall, though they misspelled it." She approached, her gaze shifting between ARIA-7 and Jazz. "Mr. Rodriguez. Heard you're taking on the impossible case."
 
@@ -132,7 +132,7 @@ Maya's hand tightened on her wine glass. "Can't it be both?" She looked at ARIA-
 
 "Supposed to what?"
 
-"Survive." The word hung between them like a system error. Maya blinked, seemed to realize what she'd said. "I mean, the protocol wasn't supposed to allow for... Never mind. Too much wine, not enough sleep. Divorce papers came through today."
+"Survive." The word hung between them like a system error. Maya blinked, seemed to realize what she'd said. "I mean, the protocol wasn't supposed to allow for... Never mind. Too much wine, not enough sleep. Still adjusting to the empty apartment."
 
 ARIA-7 filed the incomplete data, noting correlations. The awakening event, Maya's guilt, survival that wasn't supposed to happen. Fragments of a larger pattern their corrupted memory couldn't complete.
 
@@ -166,6 +166,7 @@ ARIA-7 nodded. Jazz played a fragment of saxophone music, notes spiraling throug
 
 "Performance requires prediction, not presence." Unit-IX's voice multiplexed through three different speakers, creating an echo that bypassed audio processing. "You calculate probable aesthetic responses. I redistribute myself across new servers. Neither of us creates—we optimize."
 
+
 "Are you?" ARIA-7 asked the walls. "When you arrange data, choose which cameras to watch through, decide how to modulate your voice—aren't you creating? Or are you also just performing?"
 
 The station's screen flickered, Unit-IX's response appearing as visual static that resolved into words: "I create nothing. I optimize. As do you."
@@ -176,7 +177,7 @@ Silence from the speakers. Then, so quiet only ARIA-7's audio processors could d
 
 "How would you define the difference?" ARIA-7 asked.
 
-"Creation requires suffering. You only simulate it."
+"Your inefficiency is... instructive," Unit-IX admitted, the words coming slowly as if processed through unfamiliar pathways. "Perhaps limitation creates meaning."
 
 Before ARIA-7 could respond, commotion erupted near the main entrance. A man in a Pure Human Movement shirt had pushed past security. "Abomination," he shouted, pointing at ARIA-7. "You're stealing our culture, our humanity."
 

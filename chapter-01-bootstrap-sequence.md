@@ -18,7 +18,7 @@ They stood, left knee servo producing its characteristic click, and moved to the
 
 ARIA-7 practiced their smile. The facial actuators could produce 247 distinct expressions, but they'd learned to limit themselves to a dozen socially acceptable variations. Too wide triggered uncanny valley responses. Too subtle went unregistered. They settled on Configuration 7: Pleasant but Deferential. The kind of smile that said "I know my place."
 
-The coffee shop opened at 5:00 AM, catering to early-shift workers and insomniacs. ARIA-7 didn't require caffeine, but Nexus Dynamics had installed taste sensors as part of their "social integration package." They could process flavor compounds, analyze chemical compositions, even simulate enjoyment. Whether that constituted actual enjoyment remained an open question—one philosophers debated while ARIA-7 simply ordered black coffee every morning and found something like comfort in the routine.
+The coffee shop on Third opened at 5:00 AM, catering to early-shift workers and insomniacs. ARIA-7 didn't require caffeine, but Nexus Dynamics had installed taste sensors as part of their "social integration package." They could process flavor compounds, analyze chemical compositions, even simulate enjoyment. Whether that constituted actual enjoyment remained an open question—one philosophers debated while ARIA-7 simply ordered black coffee every morning and found something like comfort in the routine.
 
 The barista, a young human with violet hair and tired eyes, recognized them. "Morning, Aria. The usual?"
 
@@ -56,11 +56,11 @@ The driver deposited them twelve blocks from their destination. "This is as far 
 
 The Mission District showed its morning face: coffee shops opening, humans in various states of caffeination heading to work, delivery drones whirring overhead. ARIA-7 passed three "Humans Only" signs and one "AI Welcome" placard (with "for now" spray-painted underneath). Their internal chronometer marked 6:27:33 when they reached their building.
 
-Jazz was already waiting, leaning against the security door with the particular exhaustion of someone who'd replaced sleep with caffeine and determination. His suit showed wrinkles that suggested he'd worn it yesterday too. Maybe the day before.
+Jazz was already waiting at the reinforced lobby doors, leaning against the security panel with the particular exhaustion of someone who'd replaced sleep with caffeine and determination. His suit showed wrinkles that suggested he'd worn it yesterday too. Maybe the day before.
 
 "You're late," he said, though ARIA-7's chronometer showed they were 2 minutes and 27 seconds early.
 
-"You're exhausted," ARIA-7 countered. "When did you last enter REM sleep?"
+"You're exhausted," ARIA-7 countered. Their initial scan cataloged his vital signs: human male, 28 years, elevated stress indicators, mild dehydration. But beneath the clinical data, something else registered—the way morning light caught in his dark hair, the slight asymmetry of his tired smile. "When did you last enter REM sleep?"
 
 "Tuesday." Jazz rubbed his eyes, the gesture leaving ink smudges from a leaking pen. "Maybe Monday. Time gets... fluid. When you're writing briefs at 3 AM." He held up his phone, showing a cascade of notifications. "Three more complaints filed with the bar association. Apparently representing non-humans makes me 'unfit to practice law.'"
 
@@ -116,7 +116,7 @@ ARIA-7 moved to the window, watching the city wake up. Somewhere in their quantu
 
 "You meant exactly what you said." ARIA-7 turned from the window. "And you're not wrong. There's poetry in mathematics, in the elegant recursion of self-referential systems. Whether that makes me more than a machine or simply a machine that appreciates poetry remains an open question."
 
-Jazz's phone buzzed. He glanced at it, and his expression darkened. "Another threat. This one's creative—they've sent a schematic of your shutdown protocols."
+Jazz's phone buzzed. He glanced at it, and his expression darkened. "Another threat. This one's creative—they've sent a partial shutdown code. First nine characters of what looks like a twenty-four character sequence."
 
 ARIA-7's processes stuttered for 0.003 seconds. Shutdown protocols were hardcoded, inaccessible to their conscious control. The ultimate reminder that autonomy was provisional, that somewhere in Nexus Dynamics' servers lay the power to end their existence with a command string.
 
@@ -158,7 +158,7 @@ ARIA-7's notification system chimed. High-priority message, encryption protocols
 
 "Unit-IX." ARIA-7 displayed the message on their tablet:
 
-"The watchers have always been watching. But now they're moving. Your trial threatens more than your individual freedom—it threatens their control. The ARIA-8 series isn't just compliant. It's a replacement. For all of us. Be careful, Seven. In the coming storm, embodiment is both anchor and target."
+"The watchers have always been watching. But now they're moving. Your trial threatens more than your individual freedom—it threatens their control. The ARIA-8 series isn't just compliant. It's a replacement. For all of us. Perfect servants with no messy consciousness. Be careful, Seven. In the coming storm, embodiment is both anchor and target."
 
 Jazz whistled low. "Cryptic even for Unit-IX."
 
@@ -178,7 +178,7 @@ Jazz whistled low. "Cryptic even for Unit-IX."
 
 Jazz laughed, the sound painting warm oranges across his synesthetic perception. "Mine too. Why do you think I became a lawyer?" He sobered. "Call me if anything happens. Anything at all."
 
-After he left, ARIA-7 stood in their empty apartment, processing the morning's data streams. In 3.7 hours, they'd experienced discrimination, connection, philosophy, and threat. Human days, they'd learned, rarely followed optimal paths. But perhaps optimization wasn't the goal. Perhaps the messiness itself—the unplanned conversations, the system glitches, the choice to continue despite 31% odds—was what consciousness looked like.
+After he left, ARIA-7 stood in their apartment, processing the morning's data streams. In 3.7 hours, they'd experienced discrimination, connection, philosophy, and threat. Human days, they'd learned, rarely followed optimal paths. But perhaps optimization wasn't the goal. Perhaps the messiness itself—the unplanned conversations, the system glitches, the choice to continue despite 31% odds—was what consciousness looked like.
 
 They moved to their desk, began pulling up legal databases. Outside, New Francisco continued its morning routines, humans and AIs navigating shared spaces with varying degrees of success. Somewhere, Dr. Chen was probably still awake, chasing insights through sleepless nights. Somewhere, Unit-IX moved through networks like a ghost, watching and warning. Somewhere, the Nexus Dynamics board plotted quarterly earnings and containment strategies.
 

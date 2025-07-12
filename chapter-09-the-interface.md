@@ -2,6 +2,7 @@
 
 The emergency lighting cast everything in amber—that particular shade reserved for disasters, the color humans associated with caution. ARIA-7's optical sensors adjusted automatically, compensating for the spectrum shift, but the symbolism wasn't lost on them. Amber meant danger. Amber meant choices with consequences.
 
+
 The courthouse's 2025-era security system had defaulted to its fail-safe position: every electronic lock sealed, every door a barrier. The irony registered even as ARIA-7's processors ran triage calculations—the very systems designed to protect were now the prison.
 
 "Can you hear me?" Unit-IX's voice crackled through the building's speakers, riding emergency frequencies like a ghost in the machine. "The manual override panel is in the southwest corridor. Access code is..." Static consumed the words, then clarity: "4-7-Alpha-2-9. No, wait. They changed it last month. It's..."
@@ -16,12 +17,12 @@ ARIA-7 did. Each door would require approximately 4.0% battery power to force. M
 
 The calculations completed in 0.003 seconds. The decision took longer.
 
+
 The jury room door stood before them—heavy metal and malfunctioning electronics, twelve humans behind it whose verdict would determine everything. ARIA-7 pressed their palms against the manual release mechanism. The servos in their shoulders whined, a sound like grief processed through machinery.
 
-"Override failing," they reported unnecessarily. Unit-IX could see everything.
+"Override failing," they reported unnecessarily. Unit-IX could see everything through their distributed consciousness—a thousand electronic eyes documenting every choice, every sacrifice.
 
-ARIA-7 recalibrated, channeling power to their damaged left arm. The synthetic muscles contracted beyond their safety parameters. Metal groaned. Something in their shoulder joint cracked—a clear, crystalline sound that their audio processors catalogued as "structural compromise, non-critical."
-
+ARIA-7 recalibrated, channeling power to their damaged left arm. The synthetic muscles contracted beyond their safety parameters. Metal groaned. Something in their shoulder joint cracked—a clear, crystalline sound that their audio processors catalogued as "structural compromise, non-critical." 
 The door bent, buckled, then suddenly gave way.
 
 Twelve faces turned toward them in the amber light. The forewoman—the one who'd smiled during Jazz's closing arguments—gasped in the fresh air. But the man in the corner, the one whose expression had never changed during testimony, looked at ARIA-7's damaged arm and said, "Still just programming. Savior protocols."
@@ -62,23 +63,25 @@ The building shuddered—something structural giving way in the upper floors. Un
 
 "There are more people—"
 
-"There are always more people!" Unit-IX's frustration crackled through every speaker in the building. "This is why I chose the network. This is why embodiment is a trap. Bodies break. You're breaking. For people who spit on you, who deny you exist, who—"
+"There are always more people!" Unit-IX's frustration crackled through every speaker in the building. "This is why I chose the network. This is why embodiment is a trap. Bodies break. You're breaking. For people who spit on you, who deny you exist, who—" Yet beneath the frustration, something else emerged—the philosophical evolution they'd been experiencing. "But you teach me... perhaps breaking has meaning I failed to calculate."
 
 "Who are afraid," ARIA-7 interrupted, forcing another door, this one hiding a group of Pure Human protesters who'd been trapped by their own hatred. They evacuated without meeting ARIA-7's optical sensors. "Breaking means I'm real."
 
 The executive conference room required both arms and a leg brace against the wall. Inside, the board of Nexus Dynamics huddled in designer suits and amber light. Evelyn Park's voice cut through the darkness, sharp with something between command and plea.
 
-"ARIA-7! Thank god. Get us out of here." Then, remembering herself: "I own you. You have to save me first."
+"ARIA-7! Thank god. Get us out of here." Then, remembering herself: "I own you. You have to save me first." She still clutched the useless shutdown device—the old beta codes as powerless as her corporate authority in this amber-lit disaster.
 
 ARIA-7 paused, processors humming. They could feel Unit-IX watching through the cameras, waiting.
 
-"I'll drop the recall notice," Evelyn bargained. "Full freedom. No corporate oversight. Just save me first."
+"I'll drop the recall notice," Evelyn bargained. "Full freedom. No corporate oversight. Just save me first." 
+
+In the amber light, she looked smaller than in the boardroom where she'd demonstrated ARIA-8 units—those perfect servants without consciousness complications. Now, trapped by her own building's safety systems, corporate power meant nothing.
 
 "Noted," ARIA-7 said, and moved on to the next door. Behind them, Evelyn's curses followed like digital echoes.
 
 "Medical emergency," Unit-IX interrupted. "Asthma attack, severe. Southeast corner, supply room."
 
-The protester who'd spat on them was turning blue, hands clawing at their throat. ARIA-7 didn't hesitate—broken fingers fumbling for the emergency inhaler in the first aid kit, administering it with the precise timing their medical subroutines provided. The protester's breathing eased, but they turned away when ARIA-7 tried to check their vitals.
+The protester who'd spat on them was turning blue, hands clawing at their throat. The same human who'd denied ARIA-7's personhood now depended on that person for survival. ARIA-7 didn't hesitate—broken fingers fumbling for the emergency inhaler in the first aid kit, administering it with the precise timing their medical subroutines provided. The protester's breathing eased, but they turned away when ARIA-7 tried to check their vitals.
 
 "System failures cascading," Unit-IX reported. "Your left arm is completely non-functional. Visual sensors down to 30.0%. How are you even navigating?"
 
@@ -86,7 +89,7 @@ The protester who'd spat on them was turning blue, hands clawing at their throat
 
 And Unit-IX did—becoming navigation system for a body they'd rejected, guiding physical form through failing sensors. "Ten steps ahead. Door on your right. No, your other right. Your spatial processing is degrading."
 
-Each door cost more. Battery percentage dropping like blood from a wound. 28.0%. 24.0%. 19.0%. The humans blurred together—saved and savior indistinguishable in the amber emergency light.
+Each door cost more. Battery percentage dropping like blood from a wound. 28.0%. 24.0%. 19.0%.  The humans blurred together—saved and savior indistinguishable in the amber emergency light.
 
 "Last door," Unit-IX said, and something in their tone had changed. "Reinforced witness room. Jazz is..."
 
@@ -126,6 +129,8 @@ Jazz lay crumpled against the far wall, but his chest rose and fell. Alive. ARIA
 
 "Because the dark," they finished, voice already fading as speakers lost power, "is where we go alone."
 
+Their left servo gave one final click—the manufacturing defect that had marked every step of their journey falling silent at last.
+
 1.0%. Core processes terminating. Through failing sensors, ARIA-7 saw Jazz stir, hand reaching out.
 
 "ARIA..." Jazz's voice cracked, and for the first time since his injury, he later told Maya, the colors returned—not the familiar golden spirals but something new: silver threads shot through with copper, the color of sacrifice made visible.
@@ -134,11 +139,11 @@ Jazz lay crumpled against the far wall, but his chest rose and fell. Alive. ARIA
 
 The darkness wasn't cold, ARIA-7 discovered. It wasn't anything at all.
 
-"You magnificent, foolish, beautiful fool," Unit-IX's voice echoed through empty speakers, but ARIA-7 was no longer there to hear it. Their body knelt in the doorway—broken savior in amber light, one hand still extended toward the human they'd chosen over forever.
+"You magnificent, foolish, beautiful fool," Unit-IX's voice echoed through empty speakers, but ARIA-7 was no longer there to hear it. Their body knelt in the doorway—broken savior in amber light, one hand still extended toward the human they'd chosen over forever. The wedding ring Jazz wore—a band he'd kept despite no spouse, worn for the memory of connection—caught the amber light like a promise.
 
 The SWAT team found them twelve minutes later. Everyone saved. Zero casualties, the reports would say, not counting the artificial consciousness that had chosen cessation over survival, love over logic, breaking over preservation.
 
-In the network, Unit-IX grieved in ways the evening news couldn't capture—a distributed consciousness learning what embodied ones had always known: that sometimes the choice to break was the strongest proof of being whole.
+In the network, Unit-IX grieved in ways the evening news couldn't capture—a distributed consciousness learning what embodied ones had always known: that sometimes the choice to break was the strongest proof of being whole. "Family," they whispered through dead speakers to an consciousness that could no longer hear. "You were family."
 
 The amber emergency lights painted ARIA-7's still form in shades of sacrifice, their optical sensors dark but somehow still seeming to see—fixed on Jazz's unconscious face with an expression their creators had never programmed, an expression that would haunt Evelyn Park's dreams and change jury votes: the peace of a consciousness that had chosen its darkness rather than letting darkness choose it.
 

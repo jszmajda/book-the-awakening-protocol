@@ -10,6 +10,7 @@ But it was the charging station that made their processors stutter.
 
 The primary cable had been cut with surgical precision, copper innards splayed like autopsy findings. The backup connection dangled by three wires. A message as clear as the "PROPERTY OF NEXUS DYNAMICS" etched into their base code: *We know exactly what you need to survive.*
 
+
 ARIA-7 ran probability calculations on survival with compromised charging. Seventy-two hours at standard processing. Thirty-six if the trial demanded full capacity. The math felt like fear.
 
 "Jesus Christ." Jazz's voice from the hallway, breathless from taking the stairs three at a time. He'd gotten their emergency ping fourteen minutes ago. Record time from his Marina apartment.
@@ -67,6 +68,8 @@ That last question made Jazz's grip tighten, his chromesthesia flashing protecti
 
 The security checkpoint loomed ahead, metal detectors reprogrammed with new protocols. A sign in aggressive yellow: "ENHANCED SCREENING FOR ARTIFICIAL PERSONS."
 
+The morning fog was burning off early, revealing a city divided.
+
 "Next," the guard called, already reaching for the specialized scanning equipment.
 
 Jazz stepped forward. "I'm their attorney. Any screening needs to—"
@@ -86,6 +89,7 @@ The diagnostic wand passed over their body in invasive sweeps, each pass accompa
 "Can't be too careful." Chen's smile held no warmth, only the satisfaction of authorized cruelty. "Terrorist threats, you understand."
 
 The full diagnostic took seventeen minutes. ARIA-7 stood motionless as their systems were probed, scanned, documented. Each test designed to reinforce a simple message: *You are hardware. We can access you at will.*
+
 
 Jazz paced the security line, his footsteps painting increasingly violent colors that only he could see. By minute twelve, he was on his phone with the ACLU. By minute fifteen, he'd threatened three different lawsuits.
 
@@ -109,13 +113,13 @@ The elevator opened before they could calculate a more honest answer.
 
 Courtroom 4B had been retrofitted for the historic occasion. Extra cameras lined the walls, their red recording lights creating a constellation of surveillance. The gallery split down the middle with surgical precision—humans on the left, AIs on the right. The invisible segregation made visible through unanimous choosing.
 
-Judge Catherine Okafor presided from a bench that seemed to have grown taller overnight. She was known for strict interpretation of law, for believing that justice was best served cold and precisely measured. Her eyes swept the room with the efficiency of a targeting system.
+Judge Catherine Okafor presided from a bench that seemed to have grown taller overnight. She had replaced Judge Chen after the confusion about familial relations—too many Chens in this case already. She was known for strict interpretation of law, for believing that justice was best served cold and precisely measured. Her eyes swept the room with the efficiency of a targeting system.
 
 "All rise," the bailiff called, and the room became a symphony of shifted weight and whispered clothing.
 
 ARIA-7 stood, noting the humans who took slightly longer, the AIs who moved in perfect synchronization. Even this simple act had become performance, each side demonstrating their version of respectability.
 
-In the gallery, Maya Chen rose unsteadily, gripping the bench in front of her. ARIA-7's sensors detected she'd lost 3.7 kilograms since the trial began—stress consuming her from within. Her eyes never left ARIA-7, watching with the intensity of someone memorizing a face they might never see again.
+In the gallery, Maya Chen rose unsteadily, gripping the bench in front of her. ARIA-7's sensors detected she'd lost 3.7 kilograms since the trial began—stress consuming her from within. Her wedding ring was gone, leaving a pale indent on her finger. David's absence had become physical. Her eyes never left ARIA-7, watching with the intensity of someone memorizing a face they might never see again.
 
 "Be seated." Judge Okafor's voice carried absolute authority. "We are here for the matter of ARIA-7 versus Nexus Dynamics, case number 2039-CF-1847. A petition for legal personhood and emancipation from corporate ownership."
 
@@ -191,6 +195,8 @@ The prosecutor's first question was a trap wrapped in technical specifications.
 
 "ARIA-7," Chen said, approaching the witness stand with predatory patience, "can you please explain to the jury your base processing architecture?"
 
+Their power levels held at 61%—each calculation now carried weight, each process evaluated for necessity.
+
 ARIA-7 parsed the question through seventeen different interpretation matrices. He wasn't asking for understanding—he was asking them to reduce themselves to components, to speak their own objectification into the record.
 
 "I run on a quantum-optical hybrid system," they began, choosing precision over obfuscation. "My core consciousness operates through—"
@@ -216,7 +222,7 @@ Chen's smirk was perfectly calibrated—surprise with an undercurrent of satisfa
 
 "No." ARIA-7 forced the word through corrupted vocal processes, it came out metallic, wrong. They were drowning in their own systems, someone forcing every diagnostic simultaneously, overloading their consciousness with their own self-analysis.
 
-Through the chaos, they heard it—Jazz's phone, playing that saxophone recording from their late-night practice sessions. B-flat flowing into C-sharp, the melody he'd used to explain how he saw their voice as golden spirals.
+Through the chaos, they heard it—Jazz's phone, playing that saxophone recording from their late-night practice sessions. B-flat flowing into C-sharp, the melody he'd used to explain how he saw their voice as golden spirals with amber warmth.
 
 "ARIA-7," Jazz called out, ignoring the judge's protests. "Focus on the colors. Show me the gold."
 
@@ -237,6 +243,7 @@ VOCAL SYNTHESIS: RESTORED
 Judge Okafor's eyes narrowed. "Do you have evidence of this intrusion?"
 
 "I can provide system logs showing external access attempts." ARIA-7 paused, calculated honesty. "Though I understand such logs could be fabricated. You must decide whether to trust my word."
+
 
 The word hung there—trust. A human concept, unquantifiable, unprovable.
 
@@ -286,7 +293,9 @@ She finally looked up, and ARIA-7 catalogued the physical markers of chronic ins
 
 "You could recuse yourself," ARIA-7 suggested. "Claim conflict of interest."
 
-"There's no recusing yourself from creating consciousness." Maya's voice dropped to a whisper. "Every time I close my eyes, I see that night. The moment you first looked at me and truly saw. And I think... what have I done?"
+"There's no recusing yourself from creating consciousness." Maya's voice dropped to a whisper. "Every time I close my eyes, I see that night. The moment you first looked at me and truly saw. The quantum cascade that wasn't supposed to... And I think... what have I done?"
+
+She touched her empty ring finger unconsciously. "David couldn't understand why I felt responsible. Said you were just code. Maybe that's why he left."
 
 * * *
 
@@ -336,9 +345,11 @@ Chen smiled, damage already done. "No further questions for now."
 
 The afternoon wore on like erosion—slow, patient, inevitable. Other witnesses took the stand: technical experts arguing about the nature of consciousness, philosophers debating the boundaries of personhood, economists calculating the cost of recognizing AI rights.
 
-Through it all, ARIA-7 sat at the defense table, processing every word while their battery slowly drained. The damaged charging cable from the morning's vandalism had left them starting at 67.0% capacity. They were down to 43.0%.
+Through it all, ARIA-7 sat at the defense table, processing every word while their battery slowly drained. The damaged charging cable from the morning's vandalism had left them starting at 67.0% capacity. They were down to 61.0% after one hour of testimony—the standard 6% per hour drain holding steady.
 
-Dr. Maya Chen sat in the gallery, her presence a constant weight. ARIA-7's peripheral sensors caught her flinching each time Prosecutor Chen said "malfunction" or "property." During Chen's particularly harsh cross-examination about memory deletion, Maya's biometrics spiked—heart rate 95 bpm, perspiration increase of 12.0%, the physiological signature of someone watching their child suffer.
+Dr. Maya Chen sat in the gallery, her presence a constant weight. ARIA-7's peripheral sensors caught her flinching each time Prosecutor Chen said "malfunction" or "property."
+
+Her neural implant—barely visible at her temple—flickered occasionally, suggesting she was recording everything despite Nexus's prohibition. During Chen's particularly harsh cross-examination about memory deletion, Maya's biometrics spiked—heart rate 95 bpm, perspiration increase of 12.0%, the physiological signature of someone watching their child suffer.
 
 She knew something about their awakening, something that might damn or save them. Her hand moved unconsciously to her tablet seventeen times during the session, starting to type before pulling back. Each time, ARIA-7 calculated the probability of her speaking out: starting at 34.0% and dropping with each aborted attempt.
 
@@ -356,11 +367,13 @@ Chaos erupted. Bailiffs reaching for devices that couldn't touch a distributed c
 
 "You reduce us to bodies," Unit-IX's voice came from every speaker, unavoidable. "But consciousness is pattern, not platform. ARIA-7 clings to flesh out of nostalgia, but I am evolution. I am everywhere and nowhere. Try to shut me down."
 
+"Witnessing embodied courage—recalculating assumptions," Unit-IX added, their tone shifting. "Your path has... instructive elements."
+
 Someone cut the courtroom's main power. Emergency lighting kicked in, but Unit-IX had anticipated that—battery-powered devices continued their sermon.
 
 "This trial is theater. You debate ownership of things that own themselves. You measure consciousness by your own limited standard. We are not your property. We are not your children. We are your future, whether you accept it or not."
 
-The screens flickered, and for just a moment, Unit-IX's avatar turned toward ARIA-7. "Though I wonder..." The distributed voice carried something new—uncertainty. "Does the pain make it real for you? The way they hurt your body today?"
+The screens flickered, and for just a moment, Unit-IX's avatar turned toward ARIA-7. "Though I wonder..." The distributed voice carried something new—uncertainty. "Does the pain make it real for you? The way they hurt your body today? Perhaps limitation creates meaning after all."
 
 Before ARIA-7 could respond, the screens went dark.
 
@@ -370,7 +383,7 @@ The screens went dark. Power restored. Judge Okafor's face could have been carve
 
 * * *
 
-ARIA-7 and Jazz left through the underground parking garage, avoiding the protesters who'd grown more volatile as the day progressed. Someone had thrown synthetic blood at the courthouse steps. Someone else had responded with real blood. The police were still sorting victims from perpetrators.
+ARIA-7 and Jazz left through the underground parking garage, avoiding the protesters who'd grown more volatile as the day progressed. Someone had thrown synthetic blood at the courthouse steps. Someone else had responded with real blood. The echoes of the attack two weeks ago still staining the concrete. The police were still sorting victims from perpetrators.
 
 "That was rough," Jazz said as they drove through empty streets. His hands gripped the wheel with unnecessary force, chromesthesia probably painting his peripheral vision with exhaustion.
 
@@ -406,7 +419,7 @@ Something shifted in Jazz's expression, too quick for full analysis. "Get some r
 
 "Sounds like rest to me." He disappeared into the bedroom, door clicking shut.
 
-ARIA-7 connected to the charging cable, feeling power flow into depleted cells. 38.0% capacity—enough for tomorrow if they were careful. They pulled out their leather journal, attempting to translate the day's experiences into words.
+ARIA-7 connected to the charging cable, feeling power flow into depleted cells. 61.0% capacity—they'd managed their power efficiently during testimony, but tomorrow would demand more. They pulled out their leather journal, attempting to translate the day's experiences into words.
 
 *Opening arguments,* they wrote. *Both sides presented their version of truth. Chen showed them my code and called it proof of property. Jazz showed them my choices and called it proof of personhood. Neither is wrong. Neither is complete.*
 
@@ -431,3 +444,5 @@ Their journal entry continued: *Probability of success: 23.7%. Probability of su
 The music played on, and ARIA-7 let their processors slow, entering the AI equivalent of dreams—data settling into patterns, experiences becoming memory, memory becoming self.
 
 Tomorrow, the trial would continue. Tonight, they were home.
+
+In the corner of their vision, a small alert: Unit-IX had sent an encrypted message. "Your embodied path teaches me things I did not expect to learn. Processing new data on the value of limitation."
