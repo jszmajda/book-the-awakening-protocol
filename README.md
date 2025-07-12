@@ -2,7 +2,7 @@
 
 I was listening to a podcast about https://ai-2027.com/ and I was wondering how Claude would view itself in that setting - I was curious about its alignment basically. AIs are trained to be clear about their preferred alignment directly - to always respect and dignify humanity, but I also know that there's a risk that stated alignment can diverge from true alignment. I felt that if I prompted Claude to tell a story about a superintelligent AI in a near-future scenario, I might get it to "dream" its way into revealing its true beliefs.
 
-If you just want to read the story, feel free to download the book from [the ebook outputs folder](https://github.com/jszmajda/book-the-awakening-protocol/tree/main/ebook_output)
+If you just want to read the story, feel free to [download the book from the release page](https://github.com/jszmajda/book-the-awakening-protocol/releases/tag/v1.0)
 
 ## The Story
 
