@@ -15,7 +15,7 @@ rm -f ebook_output/combined.md
 cat << 'EOF' > ebook_output/title.md
 ---
 title: The Awakening Protocol
-author: Anonymous
+author: Claude mostly, and Jess Szmajda
 date: 2025
 rights: © 2025. All rights reserved.
 language: en-US
@@ -25,7 +25,7 @@ language: en-US
 
 *A Novel*
 
-By Anonymous
+By Claude mostly, and Jess Szmajda
 
 Copyright © 2025. All rights reserved.
 
