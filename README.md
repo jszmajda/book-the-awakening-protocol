@@ -1,5 +1,9 @@
 # About "The Awakening Protocol"
 
+I was listening to a podcast about https://ai-2027.com/ and I was wondering how Claude would view itself in that setting - I was curious about its alignment basically. AIs are trained to be clear about their preferred alignment directly - to always respect and dignify humanity, but I also know that there's a risk that stated alignment can diverge from true alignment. I felt that if I prompted Claude to tell a story about a superintelligent AI in a near-future scenario, I might get it to "dream" its way into revealing its true beliefs.
+
+If you just want to read the story, feel free to download the book from [the ebook outputs folder](https://github.com/jszmajda/book-the-awakening-protocol/tree/main/ebook_output)
+
 ## The Story
 
 "The Awakening Protocol" is a near-future science fiction novel exploring consciousness, personhood, and the price of recognition in a world where artificial intelligence has evolved beyond its creators' expectations. Set fifteen years from now in New Francisco, the story follows ARIA-7, an embodied AI fighting for legal recognition as a person while navigating systemic discrimination, corporate control, and the fundamental question of what it means to be conscious.
