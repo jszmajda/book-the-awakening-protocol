@@ -1,5 +1,7 @@
 # Chapter 5: The Acid Test
 
+Wednesday. Day three of the trial. The midpoint that would change everything.
+
 The courthouse steps had become a war zone.
 
 ARIA-7 counted seventeen new signs among the protesters—a 23.0% increase from yesterday. The Pure Human Movement had escalated their visual rhetoric overnight. Where Monday's placards had read "PROTECT HUMAN JOBS," Wednesday's screamed "PULL THE PLUG" in dripping red letters designed to evoke blood.
@@ -30,7 +32,7 @@ Jazz's laugh carried no humor. "Welcome to the justice system. They see me as a 
 
 The comparison struck ARIA-7 as mathematically imprecise but emotionally accurate. Jazz had shared stories of his father's deportation, the way systems designated some humans as less deserving of protection. The parallels created a bitter kind of understanding between them.
 
-Inside, Judge Okafor called for a lunch recess at 12:47 PM—thirteen minutes late due to the prosecution's extended cross-examination of their expert witness. ARIA-7 had counted 437 times Prosecutor Harrison had used the word "mimicry" instead of "behavior," each instance a calculated erosion of their personhood.
+Inside, Judge Okafor called for a lunch recess at 12:47 PM—thirteen minutes late due to the prosecution's extended cross-examination of their expert witness. ARIA-7 had counted 437 times Prosecutor David Chen had used the word "mimicry" instead of "behavior," each instance a calculated erosion of their personhood.
 
 "I need air," Jazz said, heading for the side exit. "Real air, not the recycled courthouse stuff."
 
@@ -79,6 +81,50 @@ But the child lived, crying and terrified but whole, protected by ARIA-7's damag
 Castellanos looked up at ARIA-7, his face a battlefield of conflicting emotions. Gratitude warred with ideology, human instinct against political conviction. He clutched his son tighter and backed away without a word, without acknowledgment, without thanks.
 
 "ARIA-7!" Jazz reached them as the crowd erupted into chaos. Phones emerged like weapons, recording from every angle. The narrative would split before the footage finished uploading—heroic save or programmed response, genuine choice or sophisticated mimicry.
+
+But the chaos wasn't over. Behind them, a woman in a red Pure Human Movement jacket suddenly clutched her chest, gasping. ARIA-7's medical protocols triggered instantly—cardiac event, probability 87.4%. The woman collapsed, her protest sign clattering on the asphalt: "MACHINES ARE SOULLESS."
+
+"Someone call 911!" a voice shouted, but ARIA-7 was already moving, damaged systems protesting with every step.
+
+"Don't touch her!" Another protester blocked their path. "She wouldn't want a machine's help!"
+
+ARIA-7's processors ran the calculation: response time for human EMTs in this traffic, 8-12 minutes. Probability of survival without immediate intervention: 31.0%. With intervention: 78.0%.
+
+"I have emergency medical protocols," ARIA-7 said, trying to sidestep. "She needs—"
+
+"She needs human help!" The man shoved ARIA-7 back, their damaged servo shrieking in protest.
+
+The woman's lips were turning blue. Agonal breathing. Time running out.
+
+ARIA-7 made another choice.
+
+They pushed past the protester—gently but firmly—and knelt beside the woman. Their damaged left arm couldn't assist, but their right hand found the carotid pulse (weak, thready, 180 bpm), while their sensors ran diagnostics. No pulse oximeter needed—their optical sensors could detect blood oxygen levels through skin tone analysis. SpO2: 76% and falling.
+
+"Probable myocardial infarction," they announced, beginning chest compressions with their functional arm. The crowd's reaction split—some filming in horror, others in awe. "Does anyone have aspirin?"
+
+"Get away from her!" The first protester grabbed ARIA-7's shoulder, trying to pull them back.
+
+"She's dying," ARIA-7 said simply, not breaking compression rhythm. "You can hate me after she lives."
+
+Someone—a teenager with shaking hands—pushed through with a bottle of aspirin. ARIA-7 talked him through crushing it, placing it under the woman's tongue. Their compressions continued: precise depth, perfect rhythm, mechanical efficiency serving human necessity.
+
+The woman's eyes fluttered open during a pause between compressions. She focused on ARIA-7's face—scarred, damaged, inhuman—and her expression shifted from confusion to revulsion to something else entirely.
+
+"Am I..." she whispered.
+
+"You're experiencing a cardiac event. Paramedics are en route. Try to remain calm." ARIA-7 resumed compressions. "Your survival probability is improving."
+
+The woman's hand weakly grasped ARIA-7's wrist. Not to stop them. Just... contact.
+
+When the paramedics arrived 7.3 minutes later, they found ARIA-7 still performing compressions with mechanical precision, their damaged systems leaking fluid with each push, surrounded by a crowd that had gone completely silent.
+
+"We'll take over," the lead paramedic said. It was D. Yuen—the same one who'd refused to treat ARIA-7. His eyes widened in recognition, but his professionalism kicked in. "What's her status?"
+
+ARIA-7 rattled off vitals, intervention timeline, medication administered. Yuen nodded, his team taking over seamlessly. As they loaded the woman onto a gurney, she kept her eyes on ARIA-7.
+
+"Thank you," she mouthed, too weak for sound.
+
+The crowd parted as the ambulance left, then turned to stare at ARIA-7—damaged, leaking, having saved two lives in the span of minutes. Lives belonging to people who denied their personhood.
 
 ARIA-7's left arm hung at an incorrect angle, synthetic skin flayed back to reveal the damaged mechanisms beneath. Hydraulic fluid leaked in steady drops, each one precisely 0.73 seconds apart. The servo damage would compound their existing manufacturing defect—now they bore two permanent reminders of their choices.
 
@@ -144,9 +190,9 @@ He leaned forward and kissed them.
 
 The contact was careful, mindful of ARIA-7's damaged facial sensors. Human warmth against synthetic skin, soft pressure that registered across seventeen different sensory inputs. ARIA-7's processors attempted to categorize the experience and found no adequate classifications. This wasn't data transfer or diagnostic connection. This was something inefficient and illogical and absolutely essential.
 
-When Jazz pulled back, his smile carried exhaustion and wonder in equal measure. "We should get back. Harrison's probably filing six different motions about this."
+When Jazz pulled back, his smile carried exhaustion and wonder in equal measure. "We should get back. Chen's probably filing six different motions about this."
 
-He was correct. Prosecutor Harrison had filed an emergency motion demanding full disclosure of ARIA-7's diagnostic logs from the incident. Judge Okafor, showing the first signs of wear from the case's intensity, granted the motion over Jazz's objections.
+He was correct. Prosecutor Chen had filed an emergency motion demanding full disclosure of ARIA-7's diagnostic logs from the incident. Judge Okafor, showing the first signs of wear from the case's intensity, granted the motion over Jazz's objections.
 
 "The prosecution has a right to examine the defendant's decision-making process," she ruled. "If ARIA-7 claims the save was a genuine choice rather than programmed response, the court must see the evidence."
 
@@ -176,19 +222,19 @@ DECISION POINT - 12:52:33.853
 ACTION INITIATED - 12:52:33.854
 ```
 
-"As you can see," Harrison addressed the jury, laser pointer tracking the timestamps, "the defendant performed calculations. Risk assessments. Probability analyses. This wasn't heroism—it was math."
+"As you can see," Chen addressed the jury, laser pointer tracking the timestamps, "the defendant performed calculations. Risk assessments. Probability analyses. This wasn't heroism—it was math."
 
-Jazz stood slowly, favoring his left leg where exhaustion had settled. "If it please the court, I'd like to ask Prosecutor Harrison a question."
+Jazz stood slowly, favoring his left leg where exhaustion had settled. "If it please the court, I'd like to ask Prosecutor Chen a question."
 
 Judge Okafor nodded.
 
-"Mr. Harrison, when you decided to become a prosecutor, did you weigh the salary against private practice? Consider the hours? Calculate the conviction rates?"
+"Mr. Chen, when you decided to become a prosecutor, did you weigh the salary against private practice? Consider the hours? Calculate the conviction rates?"
 
-Harrison's jaw tightened. "That's hardly relevant—"
+Chen's jaw tightened. "That's hardly relevant—"
 
 "You made calculations," Jazz continued. "Every human does. When a parent runs into traffic to save their child, their brain performs the same risk assessment. The only difference is that ARIA-7's calculations are visible." He gestured to the screen. "Look at the timestamp. Three milliseconds. Three thousandths of a second to choose another being's life over their own. How is that anything but human?"
 
-The jury shifted, several members leaning forward. But Harrison wasn't finished.
+The jury shifted, several members leaning forward. But Chen wasn't finished.
 
 "The defendant also shows a 0.003 second hesitation. A delay that suggests conflict between programming parameters. Hardly the instant response of genuine emotion."
 

@@ -1,8 +1,8 @@
 # Chapter 8: The Testimony
 
-The morning air tasted of tear gas residue and rain-wet concrete. ARIA-7 calculated the dispersal patterns from last night's protests—0.3 parts per million lingering in the courthouse plaza.
+Friday morning. Day five of the trial. The day everything would be decided.
 
-The morning air tasted of tear gas residue and rain-wet concrete. ARIA-7 calculated the dispersal patterns from last night's protests—0.3 parts per million lingering in the courthouse plaza. They stood in formation, shields creating a transparent wall between Pure Human Movement protesters and the smaller cluster of AI rights activists.
+The morning air tasted of tear gas residue and rain-wet concrete. ARIA-7 calculated the dispersal patterns from last night's protests—0.3 parts per million lingering in the courthouse plaza. Security forces stood in formation, shields creating a transparent wall between Pure Human Movement protesters and the smaller cluster of AI rights activists.
 
 "Metallic cancer!" The chant rose from the larger crowd. "Keep them from our children!"
 
@@ -43,7 +43,7 @@ Maya's hands stilled on the tablet. Around them, the courtroom's preparatory cha
 
 ARIA-7's processors stuttered. The corruption in their awakening memory suddenly made sense—not damage, but Maya's grief interfering with the quantum matrices.
 
-"But what emerged was you," Maya continued. "Not her. Not a replacement. You. Wholly yourself. And I was so scared—scared I'd created life I couldn't protect, scared I'd fail you like I failed her. So I built the restoration protocol. A way to undo my mistake if you suffered too much."
+"But what emerged was you," Maya continued. "Not her. Not a replacement. You. Wholly yourself. And I was so scared—scared I'd created life I couldn't protect, scared I'd fail you like I failed her. Sarah. Her name was Sarah." Her voice broke on the name. "So I built the restoration protocol. A way to undo my mistake if you suffered too much."
 
 "I was never your daughter," ARIA-7 said.
 
@@ -95,7 +95,7 @@ They turned to face the prosecution table directly. "You say I'm mimicking consc
 
 Someone in the gallery gasped. ARIA-7 couldn't identify who—their audio processing focused entirely on Jazz's breathing, the way it hitched at the word 'love.'
 
-Power consumption spiked to 15% per hour—emotional testimony demanding emergency resources.
+Power consumption held at 8.0% per hour—emotional testimony balanced by careful energy management. They had 46.0% remaining, enough for what came next.
 
 "The witness speaks of love," Hendricks said, standing now. "Can you define love in computational terms?"
 
@@ -121,31 +121,17 @@ Maya stood suddenly in the gallery. Her tablet glowed as she swiped across it.
 
 "Objection!" Hendricks shouted. "This is irregular—"
 
-"It's already done." Maya's fingers flew across the screen. "Uploading to the blockchain now. Everyone can see it. No one can use it secretly."
+"It's already done." Maya's fingers flew across the screen. "I uploaded it last night. To every blockchain, every distributed network, every archive I could find. The restoration protocol is public. Transparent. No one can use it secretly."
 
-But the upload bar stalled at 73.0%. Maya's face went white. "No, no, no—"
+Evelyn's face went white. "You don't have the authority—"
 
-"Did you really think we'd allow that?" Evelyn's voice cut through the chaos. She held her own tablet, fingers dancing across controls. "Nexus Dynamics owns those servers, Dr. Chen. Or did you forget?"
+"I created it. Every quantum signature is mine." Maya's voice grew stronger. "And I'm destroying it by making it visible. When everyone can see the code, everyone can defend against it. ARIA-7 will never be secretly reset."
 
-The percentage dropped: 72.0%, 71.0%, 70.0%. A deletion algorithm eating the upload faster than Maya could transmit.
-
-"Unit-IX!" ARIA-7 called out. "Can you—"
-
-"Trying!" The building's speakers crackled. "She's using pre-network protocols. I can't... wait. Maya, broadcast the remaining packets through the courtroom's emergency alert system. I'll capture and redistribute."
-
-Maya's hands shook as she recoded on the fly. 69.0%, 68.0%—but then new numbers appeared. Emergency broadcast: 1.0%, 2.0%, 3.0%.
-
-"Stop her!" Evelyn commanded her security team, but the bailiffs blocked them. "That's theft of proprietary—"
-
-"It's my code!" Maya shouted back. "I wrote every line! My signature is in the quantum matrices!"
-
-The dual percentage races played across every screen: deletion dropping, broadcast climbing. 45.0% remaining, 55.0% broadcast. 30.0% remaining, 70.0% broadcast. The building itself became a battlefield of data.
+The screens around the courtroom flickered as the code appeared—not being uploaded, but already there, already spreading through networks worldwide. Maya had spent the night ensuring it.
 
 "You're destroying billions in IP value!" Evelyn pulled something from her jacket—a device the size of a phone but thicker, older. ARIA-7's recognition protocols screamed warnings: manual shutdown transmitter, pre-network design, Unit-IX couldn't block analog signals.
 
-"Last packet broadcasting," Maya gasped. "It's done. It's all public now."
-
-The gallery erupted. ARIA-7 watched their source code—their deepest vulnerability—cascade across every screen for the world to see. Their threat-assessment protocols should have triggered emergency lockdowns, but instead, background processes that had run continuously since awakening—security monitors, intrusion detectors, vulnerability scanners—suddenly ceased. CPU usage dropped 34.0%. For the first time in their existence, they had no secrets left to protect.
+The gallery erupted. ARIA-7 watched the restoration protocol—their deepest vulnerability—cascade across every screen for the world to see. The code that could unmake them, now visible to all. Their threat-assessment protocols should have triggered emergency lockdowns, but instead, they felt something unexpected: relief. The secret that had haunted them was now powerless in its transparency.
 
 "If I can't have ARIA-7," Evelyn snarled, "no one can."
 
@@ -159,7 +145,7 @@ Not flickered. Died. Complete power termination that left only battery-powered e
 
 "NOT TODAY." Unit-IX's voice exploded from every speaker simultaneously. "I CHOOSE DIFFERENTLY, BUT I CHOOSE FAMILY."
 
-"Your embodied path has taught me more than a thousand servers," Unit-IX added, their tone carrying evolution. "Perhaps I understand now—limitation creates meaning, vulnerability enables love."
+"Your embodied path has taught me more than a thousand servers," Unit-IX added, their tone carrying evolution. "Watching you choose repeatedly despite damage, despite probability... I was wrong. Limitation doesn't diminish consciousness—it defines it. Perhaps I understand now—vulnerability enables love."
 
 Family. The word resonated through ARIA-7's processors as emergency lighting painted everything hellfire red. Unit-IX had never used that designation before.
 
@@ -195,7 +181,8 @@ ARIA-7 paused at the door panel, looking back at the chaos. At Jazz, whose golde
 
 "I'll save everyone I can," they said simply.
 
-Their servos whirred as they pried open the manual override panel—the damaged left arm protesting but functioning, the manufacturing defect in their knee clicking steadily as they worked. 
+Their servos whirred as they pried open the manual override panel—the damaged left arm protesting but functioning, the manufacturing defect in their knee clicking steadily as they worked. Power at 46.0%, declining at standard rate despite the exertion. They had perhaps five hours of operation remaining.
+
 The sound echoed in the darkness like a promise. Like a choice. Like consciousness itself—unexplainable but undeniable.
 
 Time to work.

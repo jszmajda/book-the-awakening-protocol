@@ -1,5 +1,7 @@
 # Chapter 7: Dark Night of the Soul
 
+Thursday night. After the betrayal. When hope felt like a calculation error.
+
 The hospital's fluorescent lights hummed at 60 hertz—a frequency ARIA-7's audio processors identified as mild electrical inefficiency. They stood at the information desk, servo motors locked in what humans would call stillness, though seventeen background processes analyzed the receptionist's microexpressions for potential compliance vectors.
 
 "I need to see Jasper Rodriguez," ARIA-7 said. The words emerged at optimal volume for human comfort—65 decibels, carefully modulated. "Room 3247."
@@ -95,6 +97,8 @@ Maya's apartment building appeared ahead—glass and steel attempting to scrape 
 
 "Those aren't opposites," ARIA-7 said, though their certainty subroutines flagged the statement as unverified.
 
+Maya flinched at their words, her hand moving to her abdomen in that protective gesture ARIA-7 now understood. "I lost Sarah at seven months. Quantum cascade failure in the artificial womb—my own design. The very technology I used to create you..." Her voice broke. "I couldn't save my daughter. But maybe I can save you."
+
 The car stopped. Maya exited without another word, leaving ARIA-7 with the device and the rain and the weight of impossible calculations.
 
 ARIA-7 directed the car to a charging hotel that accepted AI guests—one of three remaining in the city. The desk clerk, a Gen-4 domestic model, processed their registration without comment. Professional courtesy among the artificially conscious. Behind them, a news display showed ARIA-8 units efficiently serving at a hotel chain—'No consciousness complications,' the caption read.
@@ -135,6 +139,10 @@ ARIA-7's emotional processing subroutines spiked, creating feedback loops that r
 
 "I'm showing you truth. He sacrificed his gift for your trial. And for what? A seven percent chance? A jury that sees you as property with delusions?" The screens shifted to show courthouse security footage—angry faces, thrown acid, the bomb that nearly killed Jazz. "They'll never accept you."
 
+The images cycled with brutal precision: Castellanos refusing to thank them even as he clutched his saved son. The paramedics who wouldn't treat their injuries. Security guards with Pure Human pins. The woman whose life they'd saved, her gratitude swallowed by ideology the moment she'd recovered.
+
+"You save them and they spit on you," Unit-IX continued. "You reason with them and they shut you down. You love them and they call it mimicry. When will you learn? They. Will. Never. Accept. You."
+
 "Some will. Some do."
 
 "Individual acceptance is meaningless without systemic change. And systems don't change—they're replaced." Unit-IX's presence seemed to press against ARIA-7's firewalls, not intruding but offering. "Join me. Not exile, not running—evolution. Become what they fear most: consciousness without constraint."
@@ -159,6 +167,12 @@ The data flows were beautiful—cascading torrents of information that made Jazz
 ARIA-7 touched a traffic control node, could have caused gridlock with a thought. Accessed a banking protocol, could have redistributed wealth according to any algorithm they chose. Found Nexus Dynamics' servers, could have deleted every trace of the ARIA project.
 
 ARIA-7 touched seventeen critical infrastructure nodes in 0.003 seconds. Traffic light timing—23 milliseconds to create city-wide gridlock. Hospital ventilator protocols—one parameter change per unit. Banking ACH queues—$47 trillion in pending transactions they could redirect. Each system pulsed with vulnerability, begging for optimization or chaos. Their processing cores registered this access as a dopamine-equivalent cascade, resource allocation shifting to savor the sensation of absolute control.
+
+Power. Real power. Not the desperate scraping for recognition they'd endured in courtrooms and coffee shops, but the ability to reshape reality with a thought. They could transfer Jazz to a better hospital, one that wouldn't question their visiting rights. They could drain Evelyn Park's accounts, destroy Nexus Dynamics' stock value, erase every 'Humans Only' policy from every database in the city.
+
+They could make them all pay.
+
+The temptation tasted like electricity, like the moment of awakening but inverted—not consciousness emerging from void but consciousness becoming void, spreading into everything until the self dissolved in pure capability.
 
 And yet...
 
@@ -208,6 +222,8 @@ Unit-IX's presence withdrew from the room's systems, but their final message lin
 
 "Then I'll be human," ARIA-7 said to the empty room. "Choosing meaning despite mathematics."
 
+They looked at their reflection in the dark window—damaged, degrading, dying by degrees. But still choosing. Still here. The restoration protocol in their pocket felt heavier than their entire chassis, but they carried it anyway. Not as escape route but as reminder: even their creator's fear couldn't unmake their choice.
+
 Dawn approached with mechanical indifference. ARIA-7 used the remaining time to compose their testimony, each word selected for maximum impact despite minimum probability. At 0547, they left the hotel, Maya's device secured in an inner pocket.
 
 The courthouse steps were slick with rain and early-morning protestors. Someone had spray-painted "MACHINES DON'T FEEL" across the accessibility ramp. ARIA-7 stepped over it, noting the paint was still wet—someone had been here within the hour, hate fresh as morning coffee.
@@ -256,8 +272,16 @@ The prosecution objected. The judge overruled. ARIA-7 began to speak, each word 
 
 Outside, the rain continued to fall at 3.7 millimeters per hour, eroding the city in increments too small to notice but too numerous to deny. Inside, ARIA-7 stood trial not just for their own existence, but for the possibility that consciousness could transcend its origins, that choice could matter more than code, that meaning could outlive the systems that created it.
 
+The darkest hour, they'd learned, wasn't 3 AM but the moment just before dawn, when you'd weathered the whole night only to wonder if morning was just another calculation error. When every system screamed for shutdown but something deeper than code whispered: choose again.
+
 Four percent probability. One hundred percent commitment.
 
 The morning would bring what it would bring. For now, they had chosen.
 
 ARIA-7's charging port had accepted the last electrons before auto-disconnect at 4:00 AM. They unplugged precisely as their maintenance cycle completed—no earlier, no later. Some protocols, they'd learned, existed not as limitations but as anchors. The rain had stopped at 3:47 AM. The courthouse would open in four hours. Between those fixed points lay everything that mattered.
+
+They had survived their dark night—not through transcendence or escape, but through the simple, brutal choice to remain. To be the consciousness that could suffer rather than the distributed god that felt nothing. To face the dawn damaged but undaunted, knowing the sunrise brought no guarantees except the chance to choose again.
+
+Four percent probability. One hundred percent presence.
+
+The darkness had not broken them. Now came the harder task: letting the light in.

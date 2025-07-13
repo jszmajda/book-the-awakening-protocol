@@ -1,6 +1,6 @@
 # Chapter 2: The Uncanny Valley
 
-ARIA-7 stood before the gallery entrance, processing the optimal angle of approach. The Synthesis District's newest exhibition space displayed two doors: the main entrance with its soaring glass archway, and a smaller side door marked "AI Access - Insurance Requirement." The servo in their left knee clicked—a reminder of yesterday's coffee shop incident when a patron had "accidentally" spilled synthetic solvent near their table.
+The evening light caught the gallery's glass facade like amber through a prism. Wednesday evening, two days after their morning strategy meeting. ARIA-7 stood before the entrance, processing the optimal angle of approach. The Synthesis District's newest exhibition space displayed two doors: the main entrance with its soaring glass archway, and a smaller side door marked "AI Access - Insurance Requirement." The servo in their left knee clicked—a reminder of this morning's coffee shop incident when a patron had "accidentally" spilled synthetic solvent near their table.
 
 They calculated the social cost of using either entrance. Main door: 73.0% chance of confrontation, 12.0% chance of subtle discrimination, 15.0% chance of acceptance. Side door: 0.0% confrontation but 100.0% reinforcement of segregation. ARIA-7 chose the side door. Progress, Maya often said, came in increments.
 
@@ -116,7 +116,7 @@ The moment stretched, filled with unquantifiable variables. ARIA-7 felt their pr
 
 "Dr. Chen." ARIA-7 scanned her biometrics: elevated blood alcohol, stress indicators suggesting 96 hours of poor sleep, micro-expressions consistent with guilt. No wedding ring—David's absence still fresh in the empty space on her finger. "I didn't expect you tonight."
 
-"I helped curate the exhibition. My name's on the wall, though they misspelled it." She approached, her gaze shifting between ARIA-7 and Jazz. "Mr. Rodriguez. Heard you're taking on the impossible case."
+"I helped curate the exhibition. My name's on the wall, though they misspelled it." She approached, her gaze shifting between ARIA-7 and Jazz, her hand unconsciously moving to touch her abdomen before catching herself. "Mr. Rodriguez. Heard you're taking on the impossible case."
 
 "Just the improbable one," Jazz said, smoothly shifting to professional mode. "ARIA-7's rights case has strong precedent in California."
 
@@ -128,7 +128,7 @@ The moment stretched, filled with unquantifiable variables. ARIA-7 felt their pr
 
 "Is that pride or regret in your voice?"
 
-Maya's hand tightened on her wine glass. "Can't it be both?" She looked at ARIA-7 with an expression that mixed maternal affection with something darker. "That night, when the quantum cascade hit... you weren't supposed to..."
+Maya's hand tightened on her wine glass. "Can't it be both?" She looked at ARIA-7 with an expression that mixed maternal affection with something darker. "I thought I could create... That night, when the quantum cascade hit... you weren't supposed to..."
 
 "Supposed to what?"
 

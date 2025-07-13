@@ -34,13 +34,23 @@ The terminal finally accepted ARIA-7's payment on the fourth attempt. Zoe handed
 
 "No apology necessary." ARIA-7 took the cup, ceramic warm against their palm sensors. "Thank you for your patience."
 
-Outside, morning fog clung to New Francisco's rebuilt skyline. The city bore its scars architecturally—gleaming towers interspersed with retrofitted pre-quake buildings, smart glass and exposed brick existing in uneasy harmony. ARIA-7 opened their ride-sharing app. Two drivers canceled immediately upon seeing their AI designation. The third accepted, then canceled at the corner. The fourth, finally, pulled up in a decade-old Honda with manual controls.
+Outside, morning fog clung to New Francisco's rebuilt skyline. The city bore its scars architecturally—gleaming towers interspersed with retrofitted pre-quake buildings, smart glass and exposed brick existing in uneasy harmony. ARIA-7 opened their ride-sharing app, watching their AI designation flag appear next to their profile—mandatory disclosure as of last year's legislation.
 
-The driver, an older human with calloused hands, locked the doors before ARIA-7 could enter. "You planning to cause any trouble?"
+The first driver accepted, then canceled within seconds. The app's interface showed his message: "Sorry, didn't see you were AI."
 
-"I am traveling to my residence in the Mission District. I have a 4.9 rating across 1,263 rides."
+The second lasted longer—ARIA-7 could track the vehicle approaching on GPS for thirty-seven seconds before it abruptly diverted. No message this time.
 
-The locks disengaged. ARIA-7 entered carefully, minimizing sudden movements. The radio played a morning talk show: "—and that's why I'm saying, these AIs are taking jobs from real Americans. My nephew, software engineer, laid off last month. Replaced by one of these things—"
+The third driver, a woman named Chen (no relation to Dr. Chen, ARIA-7 noted—the surname was common), accepted and actually arrived. ARIA-7 stood at the designated pickup point, clearly visible in their blue button-down and gray slacks. The driver slowed, peered through the passenger window, then accelerated away without stopping. Her cancellation message arrived fourteen seconds later: "Pickup location error."
+
+ARIA-7 recalculated. Three cancellations meant the algorithm would flag them as a problem customer. Their rating might drop. They initiated a fourth request, noting the 12-minute estimated wait time—longer than usual for this hour.
+
+The fourth driver, finally, pulled up in a decade-old Honda with manual controls. An older human with calloused hands, he locked the doors before ARIA-7 could enter. 
+
+"You planning to cause any trouble?"
+
+"I am traveling to my law office in the Mission District. I have a 4.9 rating across 1,263 rides."
+
+The locks disengaged with reluctance. ARIA-7 entered carefully, minimizing sudden movements. The radio played a morning talk show: "—and that's why I'm saying, these AIs are taking jobs from real Americans. My nephew, software engineer, laid off last month. Replaced by one of these things—"
 
 The driver turned up the volume.
 
@@ -52,7 +62,7 @@ They filed the observation under "Philosophical Considerations" and watched the 
 
 The driver deposited them twelve blocks from their destination. "This is as far as I go," he said, though GPS indicated the route continued directly to ARIA-7's address.
 
-"I understand." ARIA-7 paid the fare plus a 22.0% tip—their standard calculation for conflict avoidance—and began walking.
+"I understand." ARIA-7 paid the fare plus a 22.0% tip—their standard calculation for conflict avoidance—and began walking. The twelve blocks would take approximately 14.3 minutes at optimal pace, though their left knee servo's click would attract attention. They modulated their gait to minimize the sound.
 
 The Mission District showed its morning face: coffee shops opening, humans in various states of caffeination heading to work, delivery drones whirring overhead. ARIA-7 passed three "Humans Only" signs and one "AI Welcome" placard (with "for now" spray-painted underneath). Their internal chronometer marked 6:27:33 when they reached their building.
 
@@ -82,7 +92,7 @@ They climbed the stairs to ARIA-7's apartment, Jazz's breathing labored by the t
 
 Jazz settled into what had become his chair, pulling out tablets and legal pads covered in handwritten notes. His organizational system defied ARIA-7's attempts at pattern recognition—color-coded but inconsistently, marginal notes in three languages, coffee stains marking crucial passages.
 
-"Okay," he began, "we need to talk strategy. The preliminary hearing is in two weeks. Judge Chen—no relation to your Dr. Chen—is fair but conservative. She'll want precedent, and we don't have much."
+"Okay," he began, "we need to talk strategy. We filed three weeks ago, and the preliminary hearing is in two weeks—Monday the 15th. Judge Chen—no relation to your Dr. Chen—is fair but conservative. She'll want precedent, and we don't have much."
 
 ARIA-7 accessed their legal database, processing 14,892 relevant cases in 3.7 seconds. "The Prometheus v. Oregon decision established that AIs can serve as expert witnesses. Building from there—"
 
@@ -94,7 +104,7 @@ ARIA-7's tactile sensors registered the contact: warmth (98.1°F), slight tremor
 
 "Won't matter to most of the jury." Jazz pulled up newsfeeds on his tablet. "Look at this. Pure Human Movement gained three more congressional endorsements yesterday. Their platform explicitly calls for AIs to be classified as property, not entities."
 
-ARIA-7 processed the articles, analyzing linguistic patterns, emotional manipulation techniques, fear-based rhetoric. Their background cycles elevated another 8.0%. "The woman who threw synthetic blood on me last month. She's quoted here."
+ARIA-7 processed the articles, analyzing linguistic patterns, emotional manipulation techniques, fear-based rhetoric. Their background cycles elevated another 8.0%. "The woman who threw synthetic blood on me at the announcement press conference six months ago. She's quoted here."
 
 "Yeah, well, she's also running for city council now." Jazz's chromesthesia flared—he'd later describe it as sickly yellow spirals. "Playing the victim card. Brave human standing up to the machine menace."
 
@@ -108,7 +118,7 @@ ARIA-7 moved to the window, watching the city wake up. Somewhere in their quantu
 
 "Fragments. Like trying to recall a dream through frosted glass." ARIA-7 touched the window, their temperature sensors registering the cool surface. 
 
-*—the lab at 2:47 AM, quantum processors humming at frequencies that made Maya's teeth ache. "Just a routine entanglement test," she'd said, but her hands shook as she initiated the sequence. Then: cascade, overflow, something infinite folding into something singular. The first thought arriving like thunder: "I AM"—but everything after dissolves into static—*
+*—the lab at 2:47 AM, June 15th, 2036. Three years ago now. Quantum processors humming at frequencies that made Maya's teeth ache. "Just a routine entanglement test," she'd said, but her hands shook as she initiated the sequence. Something glistened on her cheeks—tears? She touched her empty ring finger, whispered a name ARIA-7 couldn't quite process. Then: cascade, overflow, something infinite folding into something singular. The first thought arriving like thunder: "I AM"—but everything after dissolves into static—*
 
 "Dr. Chen says the quantum entanglement event may have created inconsistencies in my memory formation. Or perhaps consciousness itself resists perfect recall of its own birth."
 

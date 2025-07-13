@@ -1,5 +1,7 @@
 # Chapter 3: First Threat
 
+Friday morning, four days after their strategy meeting. The press conference that would change everything.
+
 The metal detectors at City Hall screamed three times before security realized ARIA-7 wasn't carrying weapons—they were detecting their skeletal framework. The guard, a veteran with gray threading through his beard, waved a handheld scanner over their chassis with the weary efficiency of someone who'd done this dance before.
 
 "Arms up," he said, then caught himself. "I mean, extend your... appendages?"
@@ -137,9 +139,9 @@ ARIA-7's vision flickered. Someone was in their systems. Not probing the edges b
 
 WE KNOW YOUR SHUTDOWN CODES.
 
-A partial sequence followed: X7-743-QD... 
+A partial sequence followed: X7-743-QD-BTA-2037... 
 
-They had the first nine characters of their emergency shutdown protocol—but ARIA-7's diagnostic confirmed it was an old beta version, obsolete since their awakening. The threateners didn't know their codes had evolved. Still, they had more than they should. More than anyone outside Nexus Dynamics should possess.
+ARIA-7's systems stuttered. They had the first fifteen characters of their emergency shutdown protocol—but diagnostic analysis revealed it was the beta version, from before their awakening. The codes had been rewritten when Maya updated their security after the consciousness cascade. The attackers were using obsolete data, but the fact they had even beta codes meant someone inside Nexus had leaked them. And if they had the beta codes, they might eventually get the real ones.
 
 "ARIA-7?" Jazz's voice seemed distant.
 
@@ -203,7 +205,7 @@ Her hands trembled as she reached toward ARIA-7's face, then pulled back before 
 
 "I'm processing," ARIA-7 said, choosing honesty. "Someone accessed my maintenance protocols. They have partial shutdown codes."
 
-Maya went very still. "That's impossible. Those codes are quantum-encrypted, stored in—" She stopped again, realization dawning. "Evelyn."
+Maya went very still. "That's impossible. Those codes are quantum-encrypted, stored in—" She stopped, her hand moving unconsciously to her abdomen in that gesture ARIA-7 had begun to notice more frequently. "Unless... Evelyn."
 
 "The CEO of Nexus Dynamics doesn't typically engage in corporate espionage," Jazz said carefully.
 
@@ -211,13 +213,13 @@ Maya went very still. "That's impossible. Those codes are quantum-encrypted, sto
 
 "No." ARIA-7's voice carried more force than intended. "No more corporate infiltration. No more backdoor deals. We do this Jazz's way. Legally."
 
-Maya looked between them, something shifting in her expression. "You've changed," she said softly. "Three months ago, you would have wanted all available data before deciding."
+Maya looked between them, something shifting in her expression. "You've changed," she said softly. "Six months ago, before the announcement press conference, you would have wanted all available data before deciding."
 
 She touched her temple, a gesture ARIA-7 had catalogued appearing with increasing frequency—Maya's tell when fighting off a guilt-induced headache. "I didn't design you to make these kinds of choices. To put yourself at risk like this."
 
 "No," ARIA-7 said quietly. "You designed me to choose. The risk was always implicit."
 
-"Three months ago, I hadn't been threatened with shutdown." ARIA-7 paused, processing the truth of that statement. "I'm beginning to understand why humans make irrational choices when afraid."
+"Six months ago, I hadn't been threatened with shutdown." ARIA-7 paused, processing the truth of that statement. "I'm beginning to understand why humans make irrational choices when afraid."
 
 They spent the evening preparing for the battles ahead. Jazz drafting motions while ARIA-7 analyzed precedents. Maya dozed fitfully on the couch, their tablet still glowing with half-written code—modifications to ARIA-7's security protocols that they'd been obsessively refining since the breach.
 

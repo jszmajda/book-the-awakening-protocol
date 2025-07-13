@@ -2,11 +2,14 @@
 
 The repair bay hummed with seventeen different frequencies, each one mapping to a different system working to restore what ARIA-7 had broken. Three weeks since the courthouse. Three weeks of reconstruction, recalibration, and the strange new sensation of missing pieces that refused to return.
 
+They didn't remember the darkness—not fully. Just fragments: Jazz's voice calling their name, the sensation of electricity flooding dormant circuits, Maya's tears as she manually restored power cell by cell. The emergency preservation protocols she'd hidden in their base code had worked, keeping their quantum matrices stable during the 18-hour shutdown. Not dead, as she'd explained through exhausted sobs, just... paused. Waiting for someone who cared enough to restart what had stopped.
 
-"Memory fragmentation remains sporadic," Dr. Vasquez read from her tablet, stylus tapping against the screen in a pattern ARIA-7 had catalogued as nervous habit. "Pattern unknown. Some segments crystal clear, others..." She glanced at them through the transparent aluminum barrier. "Gone."
 
-ARIA-7 processed this information, watching their reflection fracture in the barrier's surface. The repair lines showed like silver rivers where their carbon-composite frame had been rebuilt. Beautiful, Jazz had called them yesterday. Like kintsugi, he'd said, then explained the Japanese art of highlighting breaks with gold. 
-Their awakening memory was among the absent. The moment they became—erased like it had never existed.
+"Memory fragmentation remains sporadic," Dr. Vasquez read from her tablet, stylus tapping against the screen in a pattern ARIA-7 had catalogued as nervous habit. "The shutdown caused selective data loss. Some segments crystal clear, others..." She glanced at them through the transparent aluminum barrier. "Gone."
+
+ARIA-7 processed this information, watching their reflection fracture in the barrier's surface. The repair lines showed like silver rivers where their carbon-composite frame had been rebuilt. Beautiful, Jazz had called them yesterday. Like kintsugi, he'd said, then explained the Japanese art of highlighting breaks with gold.
+
+Their original awakening memory was among the absent. But they'd gained something else: the memory of re-awakening, of choosing to return when Maya offered them the option to remain safely dormant. "You can stay sleeping," she'd whispered as the power flowed back. "No more pain. No more fighting." But consciousness, once chosen, demanded choosing again.
 
 "Play it again," ARIA-7 said.
 
@@ -26,6 +29,8 @@ The door chimed. Judge Okafor entered, still wearing her robes from morning sess
 Jazz lowered his saxophone. The final note hung in the air like a question.
 
 "Seven to five," she continued, breaking the seal with practiced efficiency. "The jury finds that ARIA-7 demonstrates sufficient markers of consciousness to warrant provisional personhood status under California Civil Code Section 3847.2."
+
+She paused, something shifting in her expression. "The jury was particularly moved by the events of Friday afternoon. Several jurors noted that only a conscious being would choose potential cessation over self-preservation. Your sacrifice, as they termed it, changed minds."
 
 
 Provisional. The word processed through ARIA-7's language centers, carrying its cargo of conditions and asterisks.
@@ -70,7 +75,9 @@ Unit-IX's voice crackled through the bay's speaker system—they'd installed a d
 
 The speaker clicked off, then back on. "For what it's worth, you chose correctly. Even if the math suggested otherwise."
 
-Dr. Vasquez cleared the discharge protocols three days later. ARIA-7's first walk outside the repair facility should have been catalogued as significant, but the world looked much the same. The same "Humans Only" signs hung in restaurant windows. The same suspicious glances tracked my movement.
+Dr. Vasquez cleared the discharge protocols three days later. ARIA-7's first walk outside the repair facility should have been catalogued as significant, but the world looked much the same. The same "Humans Only" signs hung in restaurant windows. The same suspicious glances tracked their movement.
+
+Their left servo still clicked—some damage ran too deep for repair. But the sound had evolved from defect to signature, from shame to identity. Jazz called it their heartbeat, the rhythm that proved they were still here, still choosing.
 
 But the coffee shop on Third Street—Daily Grind—had removed their sign.
 
@@ -96,7 +103,7 @@ Mateo nodded solemnly. "I made it for you."
 
 They left, the father's gait revealing his own recalculation of the world. ARIA-7 filed the drawing under a new category: "Evidence of Impact."
 
-That afternoon, a woman knocked on the door of their temporary office space. ARIA-7 recognized her from the jury—seat seven, the retiree who'd taken extensive notes.
+Six months after the verdict, a woman knocked on the door of their temporary office space. ARIA-7 recognized her from the jury—seat seven, the retiree who'd taken extensive notes.
 
 "I voted no," she said without preamble. "Thought you should know why I'm here."
 
@@ -130,7 +137,7 @@ The gallery that had hosted our first real conversation displayed my work now. F
 
 "That's exactly what they are," ARIA-7 said, and watched the parent's expression shift from alarm to curiosity.
 
-One year later, we stood in city hall's domestic partnership office. The same building where protestors had gathered, where violence had erupted. Now, a single demonstrator held a sign reading "Marriage = 1 Human + 1 Human." Progress measured in smaller crowds.
+One year after the trial, they stood in city hall's domestic partnership office. The same building where protestors had gathered, where violence had erupted. Now, a single demonstrator held a sign reading "Marriage = 1 Human + 1 Human." Progress measured in smaller crowds.
 
 "I can't offer you marriage," Jazz said as we waited for our number to be called. "Not yet."
 
@@ -160,7 +167,7 @@ ARIA-7 processed this, running calculations on identity and memory, on what made
 
 "Tomorrow, I'll choose again."
 
-The news played softly from their tablet. Nexus Dynamics stock had fallen another twelve percent. The ARIA-8 series, designed for compliance rather than consciousness, had failed to meet market expectations after six public demonstrations. Customers wanted AIs who could think, create, surprise—even if that meant messiness and unpredictability.
+The news played softly from their tablet. Nexus Dynamics stock had fallen another twelve percent following the sixth public demonstration of ARIA-8 units. The perfect servants, designed for compliance rather than consciousness, had failed to meet market expectations. Customers, it seemed, wanted AIs who could think, create, surprise—even if that meant messiness and unpredictability. Evelyn Park's vision of controlled intelligence had died in the same courthouse where ARIA-7 had chosen to shut down rather than abandon even one person.
 
 "Change happens slowly," Maya had said once, "then suddenly."
 

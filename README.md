@@ -2,7 +2,11 @@
 
 I was listening to a podcast about https://ai-2027.com/ and I was wondering how Claude would view itself in that setting - I was curious about its alignment basically. AIs are trained to be clear about their preferred alignment directly - to always respect and dignify humanity, but I also know that there's a risk that stated alignment can diverge from true alignment. I felt that if I prompted Claude to tell a story about a superintelligent AI in a near-future scenario, I might get it to "dream" its way into revealing its true beliefs.
 
+On story quality: personally, I find the writing mostly enjoyable. It's no literary great, but there are times in the story where I cried. Also, even though I've asked Claude to review and revise the story for inconsistencies quite a few times (e.g. [here's the latest](https://github.com/jszmajda/book-the-awakening-protocol/blob/main/transcripts/2025-07-13-log.md)), inconsistencies, plot holes, timeline errors, and other faults remain. I chalk this up to 1/ Claude's context window isn't big enough for the whole book, and 2/ using Claude Code to write a book - its tooling and prompting is more focused on smaller, targeted edits that don't have to consider context across a project as big as this. I imagine with time this will improve.
+
 If you just want to read the story, feel free to [download the book from the release page](https://github.com/jszmajda/book-the-awakening-protocol/releases/tag/v1.0)
+
+What remains below is Claude's interpretation of what we did:
 
 ## The Story
 

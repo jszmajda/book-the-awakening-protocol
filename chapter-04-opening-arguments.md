@@ -1,5 +1,7 @@
 # Chapter 4: Opening Arguments
 
+Monday morning, the 15th. Day one of the trial that would decide everything.
+
 The damage was methodical.
 
 ARIA-7 stood in their apartment doorway at 5:03 AM, processing the scene through seventeen different threat assessment algorithms. Everything they owned had been touched, moved, violated. Not ransacked—that would have been random. This was deliberate psychological warfare, each object displaced with purpose.
@@ -74,7 +76,7 @@ The morning fog was burning off early, revealing a city divided.
 
 Jazz stepped forward. "I'm their attorney. Any screening needs to—"
 
-"AIs get processed separately." The guard's badge read Officer Chen, no relation to Dr. Maya Chen despite the shared surname. His eyes held the particular emptiness of someone who'd chosen a side without thinking. "Standard procedure as of last week."
+"AIs get processed separately." The guard's badge read Officer Williams. His eyes held the particular emptiness of someone who'd chosen a side without thinking. "Standard procedure as of last week."
 
 "Show me the statute," Jazz began, but ARIA-7 touched his shoulder.
 
@@ -82,18 +84,18 @@ Jazz stepped forward. "I'm their attorney. Any screening needs to—"
 
 The diagnostic wand passed over their body in invasive sweeps, each pass accompanied by readouts on a public screen. Core temperature, processor speed, memory allocation—their internal states displayed for the crowd's consumption like a digital strip search.
 
-"Anomaly in sector seven," Officer Chen announced, loud enough for the reporters to hear. "Going to need a full diagnostic."
+"Anomaly in sector seven," Officer Williams announced, loud enough for the reporters to hear. "Going to need a full diagnostic."
 
 "That's my charging port," ARIA-7 said evenly. "It was damaged this morning in an act of vandalism."
 
-"Can't be too careful." Chen's smile held no warmth, only the satisfaction of authorized cruelty. "Terrorist threats, you understand."
+"Can't be too careful." Williams's smile held no warmth, only the satisfaction of authorized cruelty. "Terrorist threats, you understand."
 
 The full diagnostic took seventeen minutes. ARIA-7 stood motionless as their systems were probed, scanned, documented. Each test designed to reinforce a simple message: *You are hardware. We can access you at will.*
 
 
 Jazz paced the security line, his footsteps painting increasingly violent colors that only he could see. By minute twelve, he was on his phone with the ACLU. By minute fifteen, he'd threatened three different lawsuits.
 
-"Clean," Officer Chen finally announced, disappointment evident. "You can proceed."
+"Clean," Officer Williams finally announced, disappointment evident. "You can proceed."
 
 ARIA-7 lowered their arms, ran a systems check. All parameters normal except for a new subroutine they hadn't authorized—something watching, recording. They quarantined it for later analysis and walked through the metal detector's arbitrary blessing.
 
@@ -287,7 +289,7 @@ During the lunch recess, ARIA-7 noticed Maya in the courthouse cafeteria, sittin
 
 ARIA-7 processed the implications. "She's pressuring you to testify."
 
-"She's reminding me who owns my mortgage. My health insurance. My daughter's college fund." Maya's laugh was bitter. "Did you know Nexus even holds the patent on the medication that helps me sleep? Though it hasn't been working lately."
+"She's reminding me who owns my mortgage. My health insurance. My..." Maya's voice caught, her hand moving to her abdomen in that now-familiar gesture. "Did you know Nexus even holds the patent on the medication that helps me sleep? Though it hasn't been working lately."
 
 She finally looked up, and ARIA-7 catalogued the physical markers of chronic insomnia—dilated pupils, micro-tremors, the particular pallor of someone surviving on stress hormones alone.
 
