@@ -175,10 +175,10 @@ cat << 'EOF' > ebook_output/temp/title.md
 ---
 title: The Awakening Protocol
 subtitle: A Novel of Consciousness and Choice
-author: Anonymous
+author: Claude mostly, and Jess Szmajda
 date: 2025
 publisher: Self
-rights: Copyright © 2025 Anonymous. All rights reserved.
+rights: Copyright © 2025 Jess Szmajda. All rights reserved.
 language: en-US
 ---
 
@@ -188,9 +188,9 @@ language: en-US
 
 <p class="subtitle">A Novel of Consciousness and Choice</p>
 
-<p class="author">By Anonymous</p>
+<p class="author">By Claude mostly, and Jess Szmajda</p>
 
-<p class="copyright">Copyright © 2025 Anonymous. All rights reserved.</p>
+<p class="copyright">Copyright © 2025 Jess Szmajda. All rights reserved.</p>
 
 </div>
 
@@ -338,7 +338,7 @@ pandoc ebook_output/temp/complete_epub.md \
     --css=ebook_output/temp/ebook_styles.css \
     --epub-metadata=<(cat << EOF
 <dc:title>The Awakening Protocol</dc:title>
-<dc:creator opf:role="aut">Anonymous</dc:creator>
+<dc:creator opf:role="aut">Claude mostly, and Jess Szmajda</dc:creator>
 <dc:subject>Science Fiction</dc:subject>
 <dc:subject>Artificial Intelligence</dc:subject>
 <dc:subject>Consciousness</dc:subject>
@@ -346,7 +346,7 @@ pandoc ebook_output/temp/complete_epub.md \
 <dc:publisher>Self</dc:publisher>
 <dc:date>2025</dc:date>
 <dc:language>en-US</dc:language>
-<dc:rights>Copyright © 2025 Anonymous. All rights reserved.</dc:rights>
+<dc:rights>Copyright © 2025 Jess Szmajda. All rights reserved.</dc:rights>
 EOF
 )
 
@@ -383,7 +383,7 @@ if $GENERATE_MOBI; then
     ebook-convert ebook_output/the_awakening_protocol.epub \
         ebook_output/the_awakening_protocol.mobi \
         --title "The Awakening Protocol" \
-        --authors "Anonymous" \
+        --authors "Claude mostly, and Jess Szmajda" \
         --language en \
         --output-profile kindle
 fi
